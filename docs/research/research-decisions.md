@@ -58,10 +58,11 @@
 - **CONFIDENCE:** MEDIUM
 - **SOURCE:** Protocol v2.0 §25-26
 
-## D007 — Forecasting Model Candidate
+## D007 — Forecasting Model Candidate  ⟶  **SUPERSEDED**
 - **DATE:** 2026-09-29
-- **DECISION:** PatchTST PROVISIONALLY LOCKED; baseline = Naive + XGBoost
+- **DECISION (historical):** PatchTST PROVISIONALLY LOCKED; baseline = Naive + XGBoost
 - **QUESTION:** Model apa untuk forecasting?
 - **EVIDENCE:** Protocol v2.0 §21-23; PatchTST = temporal DL; XGBoost = tabular ML baseline; Naive = simplest baseline
 - **CONFIDENCE:** LOW — perlu evaluasi apakah PatchTST justified vs XGBoost saja
 - **SOURCE:** Protocol v2.0 §21-23
+- **STATUS: SUPERSEDED.** The final experiment did **NOT** implement PatchTST. The final forecasting model is **XGBoost** (`XGBRegressor`), as frozen in `reports/frozen_methodology_manifest.md` (Forecast = XGBoost, "Can change? No") and recommended in `reports/methodology-resolution.md` §17 (do not select PatchTST/iTransformer; keep XGBoost as the tabular forecaster). PatchTST was evaluated as a candidate and deliberately not used (small sample ≈2,969 daily rows; no directly verified BTC daily next-day evidence). This record is preserved as historical evidence only — it does **not** describe the implemented pipeline.

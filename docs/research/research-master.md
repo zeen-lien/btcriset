@@ -1,5 +1,13 @@
 # Research Master — Temporal Feature-Subset Stability ↔ OOS Forecasting Error (Bitcoin)
 > Protocol v2.0 | PHASE 0 — Research Validation | 2026-09-29
+>
+> **HISTORICAL SNAPSHOT (Phase 0).** This document records the *candidate/exploratory*
+> state before the methodology was frozen. Everything below marked "candidates",
+> "NOT locked", or "OPEN" was **superseded** by the final experiment. In particular,
+> the final forecasting model is **XGBoost** (NOT PatchTST); see
+> `docs/research/research-design.md` §7 and `reports/frozen_methodology_manifest.md`
+> for the frozen protocol, and `README.md` for final results. Keep this file for the
+> research history only.
 
 ## 1. Current Research Problem
 [EVIDENCE-SYNTHESIS] Literatur BTC forecasting menunjukkan feature selection sudah banyak dilakukan (Barak 2023, Youssefi 2025, Hafid 2024, Bysika 2026), termasuk dynamic/temporal feature selection. Namun, belum teridentifikasi secara memadai dalam literatur yang diaudit penelitian yang menjadikan **perubahan temporal feature-subset stability** sebagai variabel analitis dan secara eksplisit menguji hubungannya dengan variasi OOS forecasting error.

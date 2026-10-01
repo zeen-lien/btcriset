@@ -3,10 +3,14 @@ import time
 import json
 import requests
 import pandas as pd
+from pathlib import Path
 from datetime import datetime, timezone
 
-RAW_DIR = "D:/Hermes/Projects/riset-btc/data/raw"
-SNAPSHOT_DIR = "D:/Hermes/Projects/riset-btc/data/snapshots"
+# Legacy audit-trail copy. Repository root resolved relative to this file
+# (code/data/ -> parents[2]); portable across machines/OS.
+ROOT = Path(__file__).resolve().parents[2]
+RAW_DIR = str(ROOT / "data/raw")
+SNAPSHOT_DIR = str(ROOT / "data/snapshots")
 os.makedirs(RAW_DIR, exist_ok=True)
 os.makedirs(SNAPSHOT_DIR, exist_ok=True)
 

@@ -11,7 +11,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-ROOT = Path("D:/Hermes/Projects/riset-btc")
+ROOT = Path(__file__).resolve().parents[1]
 REP = ROOT / "reports"
 sys.path.insert(0, str(ROOT / "code"))
 from prepare_features import jaccard, kuncheva  # noqa: E402

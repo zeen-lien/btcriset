@@ -3,7 +3,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-ROOT = Path('D:/Hermes/Projects/riset-btc')
+ROOT = Path(__file__).resolve().parents[2]
 SETS = [
     ('binance', ROOT/'data/raw/binance_btcusdt_1d.parquet', ROOT/'data/snapshots/binance_btcusdt_1d_meta.json', 'open_time', 86400000, 'ms'),
     ('coinbase', ROOT/'data/raw/coinbase_btc_usd_86400.parquet', ROOT/'data/snapshots/coinbase_btc_usd_86400_meta.json', 'time', 86400, 's'),

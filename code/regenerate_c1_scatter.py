@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from pathlib import Path
 
-ROOT = Path("D:/Hermes/Projects/riset-btc")
+ROOT = Path(__file__).resolve().parents[1]
 REPORTS = ROOT / "reports"
 FIGURES = REPORTS / "figures"
 FIGURES.mkdir(parents=True, exist_ok=True)

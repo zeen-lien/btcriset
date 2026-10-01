@@ -5,7 +5,7 @@ import pytest
 from pathlib import Path
 import sys
 
-ROOT = Path("D:/Hermes/Projects/riset-btc")
+ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "code"))
 
 import prepare_features as pf

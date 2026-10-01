@@ -1,7 +1,9 @@
 """FROZEN experiment configuration — do not modify without a freeze exception."""
 from __future__ import annotations
+from pathlib import Path
 
-ROOT = "D:/Hermes/Projects/riset-btc"
+# Repository root resolved relative to this file (portable across machines/OS).
+ROOT = str(Path(__file__).resolve().parents[1])
 
 # --- Frozen decisions (master execution prompt) ---
 PRIMARY_DATASET = "Binance BTC/USDT daily"

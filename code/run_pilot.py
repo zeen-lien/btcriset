@@ -6,7 +6,7 @@ from scipy.stats import spearmanr
 from xgboost import XGBRegressor
 from prepare_features import FEATURE_COLUMNS, jaccard, kuncheva, OUT
 
-ROOT=Path('D:/Hermes/Projects/riset-btc'); RESULTS=ROOT/'reports/pilot_results.csv'
+ROOT=Path(__file__).resolve().parents[1]; RESULTS=ROOT/'reports/pilot_results.csv'
 TRAIN,VALID,TEST,STEP=730,90,30,30
 K_CANDIDATES=(10,15,20)
 K=10  # overwritten by train/validation-only sensitivity procedure; never use OOS for K choice

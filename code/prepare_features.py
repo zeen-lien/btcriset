@@ -4,7 +4,7 @@ import hashlib, json
 import numpy as np
 import pandas as pd
 
-ROOT = Path('D:/Hermes/Projects/riset-btc')
+ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT/'data/raw/binance_btcusdt_1d.parquet'
 OUT = ROOT/'data/processed/binance_btcusdt_daily_features_v1.parquet'
 META = ROOT/'data/snapshots/binance_btcusdt_daily_features_v1_metadata.json'

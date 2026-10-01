@@ -23,7 +23,7 @@ import numpy as np
 import pandas as pd
 from scipy.stats import spearmanr
 
-ROOT = Path("D:/Hermes/Projects/riset-btc")
+ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "code"))
 from bootstrap_analysis import automatic_block_length, stationary_bootstrap_pairs  # noqa: E402
 from prepare_features import jaccard  # noqa: E402  (frozen Jaccard definition, reused)

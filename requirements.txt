@@ -1,0 +1,16 @@
+# Python dependencies for the btcriset research pipeline.
+# Derived from the direct imports actually used in code/ and tests/ (see finalization audit).
+# Versions are pinned to the reference environment used for the final experiment (Python 3.14.7).
+# Reproducibility note: the Python patch version and OS are not pinned, so byte-identical
+# regeneration of figures / metadata JSON is not guaranteed; the numerical results are
+# reproducible given the pinned package versions below.
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6
+xgboost==3.4.1
+matplotlib==3.11.2
+pyarrow==25.0.1
+requests==2.34.2
+pytest==9.1.1
+# Note: scikit-learn (1.9.1) is present in the reference environment but is NOT imported by
+# any script in this repository, so it is intentionally not listed as a runtime dependency.

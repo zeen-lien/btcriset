@@ -60,12 +60,25 @@ literature/      paper referensi (PDF)
 ## Reproduksi
 
 ```bash
-pip install numpy scipy pandas scikit-learn xgboost matplotlib pyarrow
-python -m pytest tests -q          # 44 tests
+pip install -r requirements.txt      # pinned versions used for the final experiment
+python -m pytest tests -q            # 44 tests
 ```
+
+`requirements.txt` lists the direct runtime dependencies derived from the actual
+imports in `code/` and `tests/`. Note: `scikit-learn` is **not** imported anywhere
+in this repository and is intentionally not required.
 
 Source-of-truth & hash lengkap: `reports/final-results-reproducibility.md`,
 `reports/master-results-evidence-manifest.md`.
+
+## Akuisisi data
+
+Skrip pengambilan data kanonik saat ini adalah **`code/download_data.py`**
+(mengunduh Binance BTC/USDT daily + Coinbase BTC-USD daily, menerapkan
+closed-candle rule, lalu menyimpan snapshot raw + metadata SHA-256).
+
+`code/data/download_data.py` adalah **salinan legacy / audit-trail** (dipertahankan
+untuk jejak audit, bukan skrip kanonik). Jangan dihapus.
 
 ## Dokumentasi kunci
 

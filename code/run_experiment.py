@@ -15,7 +15,7 @@ import pandas as pd
 from scipy.stats import spearmanr
 from xgboost import XGBRegressor
 
-ROOT = Path("D:/Hermes/Projects/riset-btc")
+ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "code"))
 
 from experiment_config import (  # noqa: E402
