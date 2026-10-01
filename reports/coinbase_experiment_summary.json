@@ -1,0 +1,61 @@
+{
+  "dataset": "Coinbase BTC-USD daily",
+  "period": [
+    "2015-10-17",
+    "2025-12-30"
+  ],
+  "raw_rows": 3818,
+  "processed_rows": 3728,
+  "feature_count": 30,
+  "K": 10,
+  "train_days": 730,
+  "validation_days": 180,
+  "oos_days": 90,
+  "step_days": 90,
+  "number_of_windows": 31,
+  "number_of_pairs": 29,
+  "mean_jaccard": 0.3897651368239604,
+  "median_jaccard": 0.42857142857142855,
+  "min_jaccard": 0.17647058823529413,
+  "max_jaccard": 0.5384615384615384,
+  "mean_xgboost_mae": 0.025444939048928958,
+  "mean_naive_mae": 0.022426800349613408,
+  "mean_xgboost_rmse": 0.03597381036239864,
+  "mean_naive_rmse": 0.03231068659431041,
+  "primary_spearman_rho": 0.18592983280648137,
+  "iid_reference_pvalue": 0.33420656703353613,
+  "bootstrap_ci_lower": -0.1691804895496767,
+  "bootstrap_ci_upper": 0.437469352072282,
+  "bootstrap_B": 5000,
+  "bootstrap_seed": 42,
+  "block_length": 5.0,
+  "block_length_stability": 4.677412980409281,
+  "block_length_error": 2.8152344337664186,
+  "block_length_rule": "ceil(max(b_stability, b_error)) per frozen prompt \u00a715",
+  "confidence_level": 0.95,
+  "pairing": "J_t -> MAE_(t+1)",
+  "primary_conclusion": "No convincing association detected in this sample (95% bootstrap CI includes zero).",
+  "secondary_associations": {
+    "jaccard_rmse_next": {
+      "spearman_rho": 0.11694345346173174,
+      "iid_pvalue_reference_only": 0.5457524773987845,
+      "n": 29
+    },
+    "kuncheva_mae_next": {
+      "spearman_rho": 0.18592983280648137,
+      "iid_pvalue_reference_only": 0.33420656703353613,
+      "n": 29
+    },
+    "kuncheva_rmse_next": {
+      "spearman_rho": 0.11694345346173174,
+      "iid_pvalue_reference_only": 0.5457524773987845,
+      "n": 29
+    }
+  },
+  "sha256": {
+    "raw": "c5d47d5f5333da8eff6652e661ef523af54990861c7067011173fb283948dc44",
+    "processed": "fbfdd07c1b7296a6f2ee9a1585f2353c434437ead201b42068eacc2f5d2573fd",
+    "metadata": "c35960463f9b0e3471853041a9c28d25dd987857a320b0d39b5fa2fcb027b4cd",
+    "result_csv": "a478cf9cc819df122f232ad0eb4b4116688fb50af55d1055309e5f484ad9f76a"
+  }
+}

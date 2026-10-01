@@ -1,0 +1,20 @@
+{
+  "n_windows": 22,
+  "n_pairs": 20,
+  "pairing": "J_t -> MAE_(t+1)",
+  "spearman_rho": -0.10132643745668742,
+  "spearman_p": 0.6707894643207623,
+  "bootstrap_block_length": 6.588182943772037,
+  "bootstrap_replications": 5000,
+  "bootstrap_mean_corr": -0.08556515777525565,
+  "bootstrap_ci_lower": -0.5193248203679854,
+  "bootstrap_ci_upper": 0.3745795999026185,
+  "confidence_level": 0.95,
+  "mean_xgboost_mae": 0.03344450115955859,
+  "mean_naive_mae": 0.021160566910711116,
+  "mean_jaccard": 0.3680207125585277,
+  "min_jaccard": 0.1111111111111111,
+  "max_jaccard": 0.6666666666666666,
+  "processed_rows": 2969,
+  "processed_sha256": "7ab4dd13aeaec8cb7d15dfdae785e7b638b2e0a9894996557ef25e673de31ce7"
+}

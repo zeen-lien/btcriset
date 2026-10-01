@@ -1,0 +1,23 @@
+{
+  "source": "Binance Spot REST API",
+  "endpoint": "/api/v3/klines",
+  "symbol": "BTCUSDT",
+  "interval": "1d",
+  "retrieval_timestamp_utc": "2026-09-28T19:49:26.168171+00:00",
+  "start_date": "2017-08-17 00:00:00",
+  "end_date": "2025-12-31 00:00:00",
+  "total_rows": 3059,
+  "exchange": "binance",
+  "requested_period_start": "2017-08-01T00:00:00Z",
+  "requested_period_end": "2025-12-31T23:59:59Z",
+  "actual_period_start_utc": "2017-08-17 00:00:00+00:00",
+  "actual_period_end_utc": "2025-12-31 00:00:00+00:00",
+  "number_of_rows": 3059,
+  "duplicate_count": 0,
+  "gap_count": 0,
+  "nan_count": 0,
+  "closed_candle_status": "verified; all candles closed at audit timestamp",
+  "raw_file_path": "D:\\Hermes\\Projects\\riset-btc\\data\\raw\\binance_btcusdt_1d.parquet",
+  "sha256": "6b05bd5bdb3127ec4d2be42936f6d75ab4a226ac5b0334677e70afe9925a2da0",
+  "requested_period": "2017-08-01T00:00:00Z through 2025-12-31"
+}

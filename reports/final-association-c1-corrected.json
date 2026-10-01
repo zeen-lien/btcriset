@@ -1,0 +1,34 @@
+[
+  {
+    "dataset": "Binance",
+    "n_pairs": 21,
+    "spearman_rho": -0.20467616041525366,
+    "iid_reference_pvalue": 0.3734735602643581,
+    "bootstrap_ci_lower": -0.38902802319377583,
+    "bootstrap_ci_upper": 0.11510760123127348,
+    "ci_includes_zero": true,
+    "block_length": 6.643900265687148,
+    "block_length_rule": "single-series automatic_block_length(jaccard)",
+    "block_length_stability": 6.643900265687148,
+    "block_length_error": null,
+    "B": 5000,
+    "seed": 42,
+    "ci_level": 0.95
+  },
+  {
+    "dataset": "Coinbase",
+    "n_pairs": 30,
+    "spearman_rho": 0.23851041407750545,
+    "iid_reference_pvalue": 0.20434181449570635,
+    "bootstrap_ci_lower": -0.05082809846734598,
+    "bootstrap_ci_upper": 0.5070390505626119,
+    "ci_includes_zero": true,
+    "block_length": 6.0,
+    "block_length_rule": "ceil(max(b_stability, b_error)) [\u00a715]",
+    "block_length_stability": 5.024005054490707,
+    "block_length_error": 2.8874134966896827,
+    "B": 5000,
+    "seed": 42,
+    "ci_level": 0.95
+  }
+]

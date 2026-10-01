@@ -1,0 +1,23 @@
+{
+  "source": "Coinbase Exchange REST API",
+  "endpoint": "/products/BTC-USD/candles",
+  "product": "BTC-USD",
+  "granularity": 86400,
+  "retrieval_timestamp_utc": "2026-09-28T19:49:43.764135+00:00",
+  "start_date": "2015-07-20 00:00:00",
+  "end_date": "2025-12-31 00:00:00",
+  "total_rows": 3818,
+  "exchange": "coinbase",
+  "requested_period_start": "2015-01-01T00:00:00Z",
+  "requested_period_end": "2025-12-31T23:59:59Z",
+  "actual_period_start_utc": "2015-07-20 00:00:00+00:00",
+  "actual_period_end_utc": "2025-12-31 00:00:00+00:00",
+  "number_of_rows": 3818,
+  "duplicate_count": 0,
+  "gap_count": 0,
+  "nan_count": 0,
+  "closed_candle_status": "verified; all candles closed at audit timestamp",
+  "raw_file_path": "D:\\Hermes\\Projects\\riset-btc\\data\\raw\\coinbase_btc_usd_86400.parquet",
+  "sha256": "c5d47d5f5333da8eff6652e661ef523af54990861c7067011173fb283948dc44",
+  "requested_period": "2015-01-01T00:00:00Z through 2025-12-31"
+}
