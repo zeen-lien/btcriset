@@ -17,3 +17,5 @@ Thumbs.db
 # Reproducibility scratch
 .tmp_repro/
 _rerun_check.txt
+
+.askpass.sh

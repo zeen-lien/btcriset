@@ -80,11 +80,12 @@
   `reports/result-audit-conflicts.md` — may quote the pre-C1 association values;
   read them as history, not as the final numbers.
 
-**⚠ Figures using the pre-C1 pairing:**
-- `reports/figures/stability_vs_error_scatter.png` (Binance)
-- `reports/figures/coinbase_stability_vs_error_scatter.png` (Coinbase)
-  These were generated before the C1 correction; regenerate from
-  `final-pairing-evidence.csv` if used for inference.
+**Figures (regenerated from the C1-corrected pairing):**
+- `reports/figures/stability_vs_error_scatter.png` (Binance, 21 points)
+- `reports/figures/coinbase_stability_vs_error_scatter.png` (Coinbase, 30 points)
+  Both were regenerated from `final-pairing-evidence.csv` (X = `jaccard_t`,
+  Y = `mae_t_plus_1`) on 2026-09-30 01:05. No regression line / new inferential
+  claim. Generator: `code/regenerate_c1_scatter.py`.
 
 **Note:** The per-window forecasting columns themselves (`xgboost_mae`, `rmse`,
 etc.) in `experiment_results.csv` / `coinbase_experiment_results.csv` are NOT

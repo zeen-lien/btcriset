@@ -41,9 +41,8 @@ code/            pipeline (config, prepare_features, run_experiment, bootstrap,
 data/            raw + processed parquet + snapshots (metadata & SHA-256)
 reports/         hasil eksperimen, audit, ringkasan, figure
 tests/           unit + assertion tests (pytest)
-docs/            proposal & dokumen skripsi
+docs/            proposal skripsi (docs/Proposal/) + dokumen riset (docs/research/)
 literature/      paper referensi (PDF)
-notes/, thesis/  catatan & draf
 ```
 
 ## Metodologi (frozen)
@@ -78,4 +77,4 @@ Source-of-truth & hash lengkap: `reports/final-results-reproducibility.md`,
 | `reports/stability-summary.csv` / `forecast-error-summary.csv` | ringkasan stability & error |
 | `reports/results-claim-guardrail.md` | klasifikasi klaim (SUPPORTED / NOT SUPPORTED) |
 | `reports/master-results-evidence-manifest.md` | SOURCE OF TRUTH index |
-| `research-master.md`, `research-design.md` | protokol & desain riset |
+| `docs/research/research-master.md`, `docs/research/research-design.md` | protokol & desain riset |

@@ -10,7 +10,7 @@ Memastikan raw OHLCV tersedia, sesuai dataset decision/design, tervalidasi kuali
 | Primary | Binance Spot REST API `/api/v3/klines` | BTCUSDT (BTC/USDT) | 1d | 2017-08-01–2025-12-31; research coverage target 2017-08-17–2025-12-31 |
 | Robustness | Coinbase Exchange REST API `/products/BTC-USD/candles` | BTC-USD | 86400 seconds (daily) | 2015-01-01–2025-12-31 |
 
-Dataset roles follow `research-decisions.md` D004 and `research-design.md` §2. No source or role changed. Earlier `research-master.md` and `dataset-audit.md` contain stale candidate-only statements; D004 and Phase 1 design record later selection.
+Dataset roles follow `docs/research/research-decisions.md` D004 and `docs/research/research-design.md` §2. No source or role changed. Earlier `docs/research/research-master.md` and `docs/research/dataset-audit.md` contain stale candidate-only statements; D004 and Phase 1 design record later selection.
 
 ## 3. Source and retrieval method
 `code/data/download_data.py` retrieved daily candles through paginated requests: Binance advances `startTime` using last returned open timestamp + 1 ms with limit 1000; Coinbase requests 200-day chunks (below 300-candle endpoint cap). Data sorted by timestamp, deduplicated, current incomplete candle filtered. Raw files contain exchange candle columns and timestamps only; no indicators, returns, lags, scaling, selection, or target.
