@@ -174,7 +174,50 @@ Backup: `_backup_panduan/*_PRETEXTSYNC.docx`.
 **Verifikasi**: ketiga file tetap **OPEN OK** di Word (BAB I–III 1061 paragraf,
 BAB IV 336, BAB V 20). Nol perubahan pada angka/hasil eksperimen.
 
-## E. STATUS FILE & BACKUP
+## G. BAGIAN AWAL SKRIPSI (front matter) — DIBUAT
+
+File baru: **`BAGIAN AWAL.docx`** (13 halaman, nomor halaman Romawi kecil i–xiii).
+Disusun mengikuti contoh pada panduan (Lampiran II/III) dan aturan §309–§372.
+
+| Hal. | Halaman | Isi |
+|---|---|---|
+| i | Halaman Judul (sampul dalam) | Logo UNISNU + judul final + "SKRIPSI" + tujuan + nama/NIM + prodi/fakultas/universitas + tahun |
+| ii | Abstrak (ID) | 274 kata, 1 paragraf, spasi tunggal, 5 kata kunci |
+| iii | Abstract (EN) | 307 kata, terjemahan setara |
+| iv | Surat Pernyataan Keaslian | identitas + pernyataan + ttd (placeholder) |
+| v | Lembar Persetujuan Pembimbing | identitas + persetujuan + 2 kolom ttd pembimbing |
+| vi | Lembar Pengesahan | identitas + majelis penguji + Dekan (placeholder) |
+| vii | Halaman Persembahan | teks persembahan |
+| viii | Halaman Moto | 2 kutipan |
+| ix | Kata Pengantar | ucapan terima kasih + harapan |
+| x | Daftar Isi | front matter (manual) + field TOC otomatis `\o "1-3"` |
+| xi | Daftar Tabel | field TOC `\c "Tabel"` |
+| xii | Daftar Gambar | field TOC `\c "Gambar"` |
+| xiii | Daftar Lampiran | daftar 4 lampiran |
+
+**Format teknis** (sesuai panduan): A4, margin 4/3/4/3 cm, Times New Roman 12 pt,
+spasi 1,5 (kecuali abstrak = spasi 1), nomor halaman Romawi kecil di footer tengah,
+judul halaman = 14 pt bold, tiap halaman diawali page-break.
+
+**Identitas terisi**: Nama **Zaini Leon Musthofa Kamal**, NIM **231240001455**,
+Prodi **Teknik Informatika**, Fakultas **Sains dan Teknologi**, Universitas
+**Islam Nahdlatul Ulama (UNISNU) Jepara**, gelar **S.Kom.**.
+
+**Placeholder yang menunggu diisi user** (ditandai `[...]`):
+`[TAHUN]`, `[tanggal]`, `[NAMA PEMBIMBING I/II]` + NIDN/NIY, `[NAMA DEKAN]`,
+`[nama pejabat]` di Kata Pengantar. Dosen pembimbing **sengaja dikosongkan**.
+
+**Catatan**: angka pada abstrak (ρ −0,2047/+0,2385, CI, Jaccard 0,1111–0,6667 /
+0,1765–0,5385, mean 0,3680/0,3898) **diambil persis** dari
+`reports/final-association-c1-corrected.json` & `reports/coinbase_experiment_summary.json`
+— tidak ada angka yang dikarang.
+
+**Verifikasi**: `BAGIAN AWAL.docx` → **OPEN OK** di Word (13 halaman, logo tampil,
+nomor halaman i–xiii urut, nol halaman kosong). Pratinjau: `PREVIEW-BAGIAN-AWAL.pdf`.
+
+---
+
+## H. STATUS FILE & BACKUP
 
 - `zipfile.testzip()` = OK (tidak ada ZIP rusak) untuk ketiga `_FIXED`.
 - Tidak ada file kunci Word (`~$*`), tidak ada `.tmp` sisa.
@@ -185,7 +228,7 @@ BAB IV 336, BAB V 20). Nol perubahan pada angka/hasil eksperimen.
 
 ---
 
-## F. YANG TIDAK DISENTUH (frozen methodology)
+## I. YANG TIDAK DISENTUH (frozen methodology)
 
 Raw data, data terproses, snapshot, output eksperimen, CSV/JSON hasil, konfigurasi model,
 logika feature engineering/selection/stability/forecasting/evaluasi, koreksi C1, dan
