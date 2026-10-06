@@ -1,0 +1,823 @@
+[11] PERATURAN
+[12] REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[13] TENTANG
+[14] PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[16] BISMILLAHIRRAHMANIRRAHIM
+[17] REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA,
+[23] pertanggungjawaban profesional secara akademik.
+[24] Tesis adalah tugas akhir jenjang magister (S2) yang merupakan karya ilmiah tertulis yang disusun secara individual berdasarkan hasil penelitian empiris untuk dijadikan bahan kajian akademis dan merupakan pernyataan atau teori yang didukung oleh argumen-argumen untuk dikemukakan sebagai hasil dari studi yang sistematis.
+[25] Sistem Informasi Akademik Mahasiswa yang selanjutnya disebut SiAMa adalah aplikasi daring yang digunakan untuk layanan akademik mahasiswa dengan pranala https://siama.unisnu.ac.id.
+[26] e-Skripsi/Tesis adalah aplikasi daring yang digunakan untuk layanan penyusunan, bimbingan, dan penilaian Skripsi, Tugas Akhir, dan Tesis dengan pranala https://eskripsi.unisnu.ac.id.
+[28] Pasal 2
+[30] Pedoman Penulisan Skripsi, Tugas Akhir, dan Tesis untuk selanjutnya disebut dengan Pedoman sebagaimana tercantum dalam Lampiran I sampai dengan Lampiran X, dan merupakan bagian tidak terpisahkan dari Peraturan ini.
+[31] Pedoman sebagaimana dimaksud pada ayat (1) terdiri atas:
+[32] pendahuluan;
+[33] persyaratan administrasi dan akademik;
+[34] prosedur penyelenggaraan Skripsi, Tugas Akhir, dan Tesis;
+[35] sistematika, bahasa, dan tata tulis laporan;
+[36] ujian akhir;
+[37] publikasi;
+[38] etika, pelanggaran, dan sanksi; dan
+[39] penutup.
+[41] Pasal 3
+[43] Pengembangan Kelembagaan, Kemahasiswaan, dan Alumni dan menyampaikan laporan pelaksanaan tugasnya kepada Rektor.
+[48] Pasal 4
+[50] Peraturan ini mulai berlaku pada tanggal ditetapkan.
+[53] Ditetapkan di Jepara pada tanggal 3 Mei 2023
+[55] REKTOR,
+[57] ttd.
+[60] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[63] LAMPIRAN I
+[64] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[65] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[68] PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[71] BAB I PENDAHULUAN
+[73] Latar Belakang
+[75] Skripsi, Tugas Akhir, dan Tesis merupakan salah satu beban studi yang wajib diselesaikan oleh mahasiswa pada semua program studi di UNISNU JEPARA. Mahasiswa program sarjana (S1) wajib menyelesaikan Skripsi atau Tugas Akhir, sedangkan mahasiswa program magister (S2) wajib menyelesaikan Tesis. Skripsi, Tugas Akhir, dan Tesis merupakan karya ilmiah hasil penelitian maupun kajian ilmiah yang dilakukan mahasiswa sebagai salah satu persyaratan penyelesaian studi. Penyusunan Skripsi, Tugas Akhir, dan Tesis dilakukan secara mandiri oleh mahasiswa di bawah bimbingan dosen pembimbing yang ditetapkan oleh Dekan atau Direktur Program Pascasarjana (PPs). Agar penyusunan Skripsi, Tugas Akhir, dan Tesis dapat berjalan dengan efektif, diperlukan pedoman penyusunan Skripsi, Tugas  Akhir, dan Tesis bagi mahasiswa, dosen pembimbing, penguji, program studi, fakultas/PPs, dan pihak-pihak yang terkait. Pedoman ini disusun untuk memperlancar dan mempermudah mahasiswa dalam menyusun Skripsi, Tugas Akhir, dan Tesis serta pihak-pihak terkait sesuai dengan tugas dan fungsinya masing-masing.
+[77] Ketentuan Umum
+[79] Skripsi
+[80] Skripsi adalah karya ilmiah yang disusun atas dasar penelitian yang dilakukan mahasiswa yang dibimbing oleh dosen pembimbing dalam rangka memenuhi sebagian syarat memperoleh gelar Sarjana (S1).
+[81] Tugas Akhir
+[82] Tugas Akhir adalah karya akademik mahasiswa dalam menyelesaikan studi tingkat Sarjana (S1) dengan mengutamakan kreativitas, eksplorasi ide, dan kemandirian seorang mahasiswa. Tugas  Akhir  merupakan  bukti  kemampuan  mahasiswa  dalam
+[85] menerapkan	ide/gagasan	dengan	metode	penciptaan	serta pertanggungjawaban profesional secara akademik.
+[86] Tugas Akhir bisa berbentuk:
+[87] Makalah ilmiah yang dipublikasikan pada jurnal terakreditasi.
+[88] Karya seni atau desain teknologi, berupa prototipe, atau rancang bangun yang disertai dengan portofolio karya.
+[89] Karya mahasiswa bidang akademik yang memperoleh kejuaraan dalam lomba bereputasi tingkat internasional.
+[90] Tesis
+[91] Tesis adalah tugas akhir jenjang magister (S2) yang merupakan
+[92] karya ilmiah tertulis yang disusun secara individual berdasarkan hasil penelitian empiris untuk dijadikan bahan kajian akademis dan merupakan pernyataan atau teori yang didukung oleh argumen-argumen untuk dikemukakan sebagai hasil dari studi yang sistematis.
+[94] Fungsi dan Tujuan
+[96] Fungsi
+[97] Pedoman Penulisan Skripsi, Tugas Akhir, dan Tesis merupakan
+[98] acuan bagi mahasiswa, dosen pembimbing, program studi, dan fakultas/program pascasarjana di lingkungan UNISNU JEPARA dalam pelaksanaan penyusunan mulai tahap praproposal, proposal, penelitian, penyusunan laporan, ujian, dan penilaian.
+[100] Tujuan
+[101] Pedoman Penulisan Skripsi, Tugas Akhir, dan Tesis ini diharapkan dapat membantu mahasiswa, dosen pembimbing, dosen penguji, ketua program studi, dan semua pihak yang terkait dalam memahami prosedur penyusunan proposal, pembimbingan, pengajuan ujian, pelaksanaan ujian, maupun penilaian sehingga proses penyelenggaraan tugas akhir dapat berjalan dengan efektif.
+[104] BAB II
+[105] PERSYARATAN ADMINISTRASI DAN AKADEMIK
+[107] Persyaratan Administrasi
+[109] Mahasiswa dapat mengambil mata kuliah Skripsi, Tugas Akhir, dan Tesis dengan persyaratan terdaftar sebagai mahasiswa aktif dalam tahun akademik berjalan yang dibuktikan dengan Kartu Rencana Studi (KRS).
+[111] Persyaratan Akademik
+[113] Mahasiswa
+[114] Untuk dapat menempuh mata kuliah Skripsi, Tugas Akhir, dan Tesis mahasiswa harus memenuhi persyaratan sebagai berikut:
+[115] Mahasiswa program sarjana dapat mengambil Skripsi dan Tugas Akhir jika sudah menyelesaikan mata kuliah sekurang-kurangnya 120 sks dengan IPK sekurang-kurangnya 2,75.
+[116] Mahasiswa program magister dapat mengambil Tesis jika sudah menyelesaikan semua mata kuliah dengan IPK sekurang-kurangnya 3,00.
+[118] Dosen Pembimbing
+[119] Skripsi dan Tugas Akhir
+[120] Dosen Pembimbing Skripsi dan Tugas Akhir untuk mahasiswa Program Sarjana berjumlah maksimal 2 (dua) orang yang terdiri atas pembimbing 1 sebagai pembimbing utama, dan pembimbing 2 sebagai pembimbing pendamping.
+[121] Pembimbing 1 sebagaimana dimaksud pada poin 1 memiliki tugas menjadi Pembimbing Penanggung Jawab.
+[122] Dalam hal hanya terdapat 1 (satu) orang pembimbing, maka pembimbing tersebut menjadi pembimbing penanggung jawab.
+[123] Dosen Pembimbing Skripsi dan Tugas Akhir bagi mahasiswa Program Sarjana harus memenuhi syarat:
+[124] dosen tetap;
+[125] memiliki	kualifikasi	akademik	minimal	lulusan	Program Magister;
+[126] memiliki jabatan fungsional minimal Asisten Ahli;
+[127] telah mengajar minimal 2 (dua) tahun; dan
+[128] memiliki	latar	belakang	keilmuan	yang	sesuai	dengan topik/isi Skripsi atau Tugas Akhir yang dibimbing.
+[129] Dosen Pembimbing Utama Skripsi atau Tugas Akhir harus memiliki kompetensi program studi dari mahasiswa yang dibimbing.
+[132] Seorang dosen pembimbing skripsi dan tugas akhir dapat membimbing maksimal 8 (delapan) mahasiswa dalam 1 (satu) semester.
+[133] Penetapan dosen pembimbing Skripsi dan Tugas Akhir dilakukan melalui Surat Keputusan Dekan.
+[135] Tesis
+[136] Dosen Pembimbing Tesis untuk mahasiswa Program Magister berjumlah 2 (dua) orang yang terdiri atas pembimbing 1 sebagai pembimbing utama dan pembimbing 2 sebagai pembimbing pendamping.
+[137] Pembimbing 1 sebagaimana dimaksud pada poin 1 memiliki tugas menjadi Pembimbing Penanggung Jawab.
+[138] Dosen Pembimbing Tesis bagi mahasiswa Program Magister harus memenuhi syarat:
+[139] dosen tetap;
+[140] memiliki	kualifikasi	akademik	minimal	lulusan	Program Doktor;
+[141] memiliki jabatan fungsional minimal Lektor;
+[142] telah mengajar minimal 1 (satu) tahun; dan
+[143] memiliki	latar	belakang	keilmuan	yang	sesuai	dengan topik/isi Tesis yang dibimbing.
+[144] Dosen Pembimbing Utama Tesis harus memiliki kompetensi yang sesuai dengan kompetensi program studi dari mahasiswa yang dibimbing.
+[145] Penetapan Dosen Pembimbing Tesis dilakukan melalui Surat Keputusan Direktur.
+[147] Tim Penguji
+[148] Skripsi dan Tugas Akhir
+[149] Jumlah Dosen Penguji Skripsi dan Tugas Akhir terdiri atas 2 (dua) orang dosen penguji utama dan bukan merupakan dosen pembimbing dari mahasiswa yang diuji.
+[150] Dosen Penguji Skripsi dan Tugas Akhir bagi mahasiswa Program Sarjana harus memenuhi syarat:
+[151] memiliki	kualifikasi	akademik	minimal	lulusan	Program Magister;
+[152] telah mengajar minimal 3 (tiga) tahun;
+[153] memiliki jabatan fungsional minimal Lektor; dan
+[154] memiliki	latar	belakang	keilmuan	yang	sesuai	dengan topik/isi Skripsi/Tugas Akhir yang diuji.
+[155] Praktisi dari luar dapat diangkat sebagai penguji eksternal dengan kualifikasi atau bidang ilmu yang relevan dengan topik yang diujikan, atas usulan Ketua Program Studi.
+[158] Bagi program studi yang belum memiliki dosen dengan kualifikasi sebagaimana pada poin 2 (dua), maka wajib mengajukan dosen penguji dari program studi lain yang sesuai dengan topik yang diujikan.
+[159] Penetapan Tim Penguji Skripsi dan Tugas Akhir dilakukan melalui Surat Keputusan Dekan.
+[161] Tesis
+[162] Jumlah Dosen Penguji Tesis terdiri atas 2 (dua) orang dosen penguji utama dan bukan merupakan dosen pembimbing dari mahasiswa yang diuji.
+[163] Dosen Penguji Tesis bagi mahasiswa Program Magister harus memenuhi syarat:
+[164] memiliki	kualifikasi	akademik	minimal	lulusan	Program Doktor;
+[165] telah mengajar minimal 3 (tiga) tahun;
+[166] memiliki jabatan fungsioanl minimal Lektor; dan
+[167] memiliki	latar	belakang	keilmuan	yang	sesuai	dengan topik/isi Tesis yang diuji.
+[168] Praktisi dari luar dapat diangkat sebagai penguji eksternal dengan kualifikasi atau bidang ilmu yang relevan dengan topik yang diujikan, atas usulan Kaprodi.
+[169] Bagi program studi yang belum memiliki dosen dengan kualifikasi sebagaimana pada poin 2 (dua), maka wajib mengajukan dosen penguji dari program studi lain yang sesuai dengan topik yang diujikan.
+[170] Penetapan Tim Penguji Tesis dilakukan melalui Surat Keputusan Direktur.
+[173] BAB III
+[174] PROSEDUR PENYELENGGARAAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[176] Proses penyusunan Skripsi, Tugas Akhir, dan Tesis dimulai dari pengajuan praproposal sampai dengan ujian dan revisi. Proses akan berakhir jika mahasiswa sudah mendapatkan nilai yang tertuang dalam Kartu Hasil Studi. Terdapat empat tahap utama dalam penyusunan Skripsi, Tugas Akhir, dan Tesis yang harus ditempuh mahasiswa, yakni: (1) pengajuan praproposal,
+[177] (2) pembuatan proposal, (3) pelaksanaan dan penyusunan laporan, dan (4) pengajuan ujian akhir. Selain tahapan utama tersebut, terdapat tahapan lainnya yang secara rinci diuraikan sebagai berikut:
+[179] Pengajuan Praproposal/Permasalahan Penelitian
+[181] Proses penyusunan Skripsi, Tugas Akhir, dan Tesis diawali dari tahap pengajuan praproposal. Praproposal berisi permasalahan yang layak dikaji lebih mendalam melalui kegiatan penelitian. Permasalahan penelitian dalam praproposal ini digunakan sebagai pertimbangan di dalam menentukan judul yang tepat.
+[182] Prosedur pengajuan praproposal dilakukan melalui langkah-langkah berikut:
+[183] Ketua Program Studi mengidentifikasi nama-nama mahasiswa yang telah memenuhi syarat untuk mengajukan permasalahan/praproposal Skripsi, Tugas Akhir, atau Tesis.
+[184] Ketua Program Studi merencanakan dan melaksanakan pembekalan praproposal sesuai dengan roadmap penelitian program studi selambat-lambatnya minggu keempat semester berjalan.
+[185] Mahasiswa mengikuti pembekalan praproposal yang diselenggarakan masing-masing program studi.
+[186] Mahasiswa mengajukan permasalahan penelitian kepada Ketua program studi paling lambat dua minggu setelah mengikuti pembekalan praproposal.
+[187] Ketua Program Studi menentukan dosen pendamping Skripsi atau Tugas Akhir untuk masing-masing mahasiswa Program Sarjana. Sedangkan untuk mahasiswa Program Magister, Kaprodi langsung menentukan pembimbing Tesis.
+[188] Ketua Program Studi mengusulkan Dosen Pendamping/Pembimbing Proposal kepada Dekan atau Direktur PPs untuk diterbitkan Surat Keputusan.
+[189] Ketua Program Studi mengumumkan daftar mahasiswa, judul, dan dosen pendamping/pembimbing penyusunan proposal secara serentak.
+[190] Ketua Program Studi melakukan monitoring dan pendampingan penyusunan proposal secara berkala yang dikemas dalam kegiatan bimbingan klasikal.
+[193] Penyusunan Proposal
+[195] Setelah mahasiswa mendapatkan judul dan dosen pendamping proposal untuk mahasiswa program sarjana dan pembimbing untuk mahasiswa program magister, proses penyusunan proposal dimulai. Langkah-langkah penyusunan proposal adalah sebagai berikut:
+[196] Mahasiswa dan Dosen Pendamping Proposal/Pembimbing Proposal menyepakati proses pembimbingan penyusunan proposal.
+[197] Mahasiswa menyusun proposal dengan bimbingan Dosen Pendamping/Pembimbing Proposal sesuai dengan jadwal yang disepakati. Mahasiswa wajib melakukan bimbingan penyusunan proposal secara rutin/terjadwal yang dibuktikan dengan Log Book Bimbingan Penyusunan Proposal, minimal 3 kali bimbingan.
+[198] Mahasiswa menginformasikan kepada Ketua program studi jika ada perubahan yang substansial dari judul.
+[199] Mahasiswa yang telah menyelesaikan proposal (ditandai dengan persetujuan dosen pendamping/pembimbing proposal), mendaftar Seminar Proposal melalui SiAMa untuk diproses lebih lanjut.
+[201] Pengajuan Seminar Proposal
+[203] Setelah proposal Skripsi, Tugas Akhir, dan Tesis disetujui oleh pembimbing, mahasiswa segera mengajukan Seminar Proposal melalui SiAMa dan memastikan telah memenuhi persyaratan administrasi yang dibutuhkan sebagai berikut:
+[204] Naskah proposal yang telah disetujui oleh Pembimbing dibuat 2 (dua) rangkap, dijilid soft cover, warna cover sesuai dengan kebijakan fakultas masing-masing.
+[205] Log Book Bimbingan Proposal yang telah ditandatangani pembimbing dan dilampiri dengan hasil cek plagiasi, similarity-nya maksimal 30%.
+[206] Bukti pembayaran Seminar Proposal.
+[208] Seminar Proposal
+[210] Seminar Proposal Skripsi, Tugas Akhir, dan Tesis dilaksanakan oleh 2 (dua) orang penguji.
+[211] Penguji Seminar Proposal ditunjuk dan ditetapkan oleh Dekan/Direktur atas usulan dari Ketua program studi.
+[212] Seminar Proposal Skripsi, Tugas Akhir, dan Tesis dilaksanakan selama 60 menit tiap mahasiswa, untuk dua orang penguji.
+[213] Penguji memberikan nilai akhir dan catatan hasil seminar proposal pada sistem e-Skripsi.
+[214] Mahasiswa wajib merevisi hasil seminar proposal dengan batas maksimal 2 (dua) minggu setelah pelaksanaan seminar.
+[217] Pelaksanaan dan Penyusunan Laporan
+[219] Setelah proposal selesai dan mendapat persetujuan dari pembimbing proposal, tahap berikutnya adalah pelaksanaan dan penyusunan laporan. Langkah-langkah pelaksanaan dan penyusunan laporan adalah sebagai berikut:
+[220] Mahasiswa menginput mata kuliah Skripsi, Tugas Akhir, atau Tesis dalam Kartu Rencana Studi pada semester 7 (tujuh) bagi mahasiswa program sarjana, dan selambat-lambatnya semester 3 bagi mahasiswa program magister.
+[221] Mahasiswa menyusun laporan dengan bimbingan Dosen Pembimbing sesuai dengan jadwal yang disepakati, mahasiswa wajib melakukan bimbingan penyusunan laporan secara rutin/terjadwal yang dibuktikan dengan Log Book Bimbingan Penyusunan Laporan, minimal 6 kali bimbingan.
+[222] Mahasiswa yang telah menyelesaikan laporan (ditandai dengan persetujuan dosen pembimbing Skripsi, Tugas Akhir, dan Tesis), mendaftar Ujian Skripsi, Tugas Akhir, dan Tesis melalui SiAMa untuk diproses lebih lanjut.
+[223] Jika selama proses penyusunan laporan mengalami kendala, mahasiswa dapat menghubungi dan berkonsultasi dengan Ketua program studi.
+[225] Ujian Skripsi, Tugas Akhir, dan Tesis
+[227] Skripsi dan Tugas Akhir
+[228] Ujian Skripsi dan Tugas Akhir dilaksanakan dalam sebuah majelis, yang terdiri atas:
+[229] seorang ketua sidang;
+[230] seorang sekretaris sidang, dan
+[231] dua orang penguji.
+[232] Ketua	sidang	dan	sekretaris	sidang	dapat	merangkap	sebagai penguji.
+[233] Ketua sidang dan sekretaris sidang ditunjuk dan ditetapkan oleh Dekan.
+[234] Ujian Skripsi dan Tugas Akhir dilaksanakan dengan prosedur dan ketentuan teknis sebagai berikut:
+[235] Sebelum sidang Skripsi atau Tugas Akhir dibuka, ketua sidang memastikan bahwa Skripsi/Tugas Akhir yang akan diujikan sudah lolos cek plagiasi dan merupakan asli karya mahasiswa yang bersangkutan.
+[236] Ketua sidang bertugas membuka sidang secara resmi dan dilanjutkan dengan penjelasan teknis ujian oleh sekretaris sidang.
+[239] Sidang ujian Skripsi dilaksanakan selama 60 (enam puluh) menit untuk setiap mahasiswa dengan dua orang penguji.
+[240] Sidang	ujian	Tugas	Akhir	yang	berbentuk rancangan/desain/inovasi produk dalam bentuk barang dan jasa, akan diatur tersendiri oleh program studi yang menyelenggarakan.
+[241] Hasil penilaian dari setiap penguji diserahkan kepada sekretaris sidang dan selanjutnya direkapitulasi untuk mendapatkan nilai akhir ujian.
+[242] Penguji juga wajib menginput nilai hasil ujian Skripsi dan TA ke e-Skripsi/Tesis.
+[243] Ketua sidang mengumumkan hasil ujian Skripsi atau Tugas Akhir setelah mahasiswa selesai diuji.
+[244] Ketua sidang menutup sidang ujian Skripsi atau Tugas Akhir secara resmi.
+[245] Mahasiswa wajib merevisi hasil ujian Skripsi dan Tugas Akhir dengan batas waktu maksimal 2 (dua) minggu setelah pelaksanaan ujian.
+[246] Tesis
+[247] Ujian Tesis dilaksanakan dalam sebuah majelis, yang terdiri atas:
+[248] seorang ketua sidang;
+[249] seorang sekretaris sidang, dan
+[250] dua orang penguji.
+[251] Ketua	sidang	dan	sekretaris	sidang	dapat	merangkap	sebagai penguji.
+[252] Ketua sidang dan sekretaris sidang ditunjuk dan ditetapkan oleh Direktur Program Pascasarjana.
+[253] Ujian Tesis dilaksanakan dengan prosedur dan ketentuan teknis sebagai berikut:
+[254] Sebelum sidang Tesis dibuka, Ketua sidang memastikan bahwa Tesis yang akan diujikan sudah lolos cek plagiasi dan merupakan asli karya mahasiswa yang bersangkutan.
+[255] Ketua sidang bertugas membuka sidang secara resmi dan dilanjutkan dengan penjelasan teknis ujian oleh sekretaris sidang.
+[256] Sidang ujian Tesis dilaksanakan selama 90 (sembilan puluh) menit untuk setiap mahasiswa dengan dua orang penguji.
+[257] Hasil penilaian dari setiap penguji diserahkan kepada sekretaris sidang dan selanjutnya direkapitulasi untuk mendapatkan nilai akhir ujian.
+[258] Penguji juga wajib menginput nilai hasil ujian Tesis ke e-Skripsi/Tesis.
+[259] Ketua sidang mengumumkan hasil ujian Tesis setelah mahasiswa selesai diuji.
+[262] Ketua sidang menutup sidang ujian Tesis secara resmi.
+[263] Mahasiswa wajib merevisi hasil ujian Tesis dengan batas waktu maksimal 2 (dua) minggu setelah pelaksanaan ujian.
+[265] Monitor Pelaksanaan
+[267] Monitor pelaksanaan Skripsi, Tugas Akhir, dan Tesis dimaksudkan untuk menjamin ketepatan waktu dan kualitas Skripsi, Tugas Akhir, dan Tesis. Monitor dilakukan secara periodik oleh Ketua Program Studi. Langkah-langkah monitor adalah sebagai berikut:
+[268] Memastikan keterlaksanaan bimbingan secara efektif dengan mengadakan pertemuan secara berkala minimal 1 (satu) kali dalam satu semester melalui e-Skripsi/Tesis.
+[269] Memberikan solusi bagi mahasiswa yang bermasalah dalam penyelesaian Skripsi, Tugas Akhir, dan Tesis.
+[271] Pengajuan Ujian Skripsi, Tugas Akhir, dan Tesis
+[273] Setelah laporan Skripsi, Tugas Akhir, dan Tesis disetujui oleh pembimbing, mahasiswa segera mengajukan ujian Skripsi, Tugas Akhir, dan Tesis melaui SiAMa dan memastikan memenuhi persyaratan administrasi yang dibutuhkan sebagai berikut:
+[274] Naskah laporan Skripsi, Tugas Akhir, atau Tesis yang telah disetujui oleh Pembimbing dibuat 4 (empat) rangkap, dijilid soft cover, warna cover sesuai dengan Fakultas masing-masing.
+[275] Surat keterangan bebas teori.
+[276] KRS yang mencantumkan mata kuliah Skripsi, Tugas Akhir, atau Tesis.
+[277] Bukti pembayaran SPP semester berjalan.
+[278] DHS (Daftar Hasil Studi) semester pertama sampai dengan semester terakhir
+[279] Sertifikat TOEFL dengan skor minimum 450 untuk mahasiswa program studi PBI dan magister, dan skor minimum 400 untuk mahasiswa program studi lainnya.
+[280] Log Book Bimbingan Skripsi, Tugas Akhir, atau Tesis yang telah ditandatangani pembimbing dan dilampiri dengan hasil cek plagiasi, similarity-nya maksimal 30%.
+[281] Bukti pembayaran Ujian Skripsi, Tugas Akhir, atau Tesis.
+[282] Naskah Skripsi, Tugas Akhir, atau Tesis diserahkan kepada penguji minimal 2 (dua) hari sebelum pelaksanaan ujian.
+[285] Ketentuan Khusus
+[287] Jika proses bimbingan Skripsi, Tugas Akhir, dan Tesis tidak dapat berjalan efektif karena sesuatu hal, mahasiswa dapat berkonsultasi dengan Ketua Program Studi tentang kemungkinan pergantian pembimbing.
+[288] Pergantian dosen pembimbing Skripsi, Tugas Akhir, dan Tesis dapat dilakukan jika:
+[289] Dosen pembimbing meninggal dunia;
+[290] Dosen pembimbing mengalami sakit dalam kurun waktu 6 (enam) bulan atau sampai waktu yang tidak dapat dipastikan kesembuhannya, dan karena hal tersebut tidak dapat melakukan kewajibannya dalam memberikan bimbingan kepada mahasiswa;
+[291] Dosen pembimbing berhalangan tetap;
+[292] Dosen pembimbing melaksanakan studi lanjut (tugas belajar) dan karena hal tersebut tidak dapat menjalin komunikasi, baik daring maupun luring dengan mahasiswa; atau
+[293] Dosen pembimbing tidak sesuai dengan keilmuan pada topik Skripsi, Tugas Akhir, atau Tesis.
+[294] Proses pergantian Dosen pembimbing Skripsi, Tugas Akhir, dan Tesis dapat dilakukan dengan ketentuan sebagai berikut:
+[295] Proses bimbingan Skripsi, Tugas Akhir, atau Tesis antara mahasiswa dengan dosen telah berjalan dalam kurun waktu 1 (satu) tahun, namun karena terjadi permasalahan, kesulitan ataupun hambatan, mahasiswa dapat mengajukan permohonan pergantian ataupun perpanjangan Surat Keputusan tentang Dosen Pembimbing kepada Ketua Program Studi, selanjutnya dosen pembimbing yang bersangkutan mendapatkan surat tembusan atau pemberitahuan terkait pergantian pembimbing.
+[296] Dosen pembimbing Skripsi, Tugas Akhir, atau Tesis juga berhak mengajukan permohonan keberatan jika mendapatkan topik penelitian dari Skripsi, Tugas Akhir, dan Tesis yang tidak sesuai dengan bidang keilmuan dosen, pengajuan permohonan keberatan dapat dilakukan melalui Ketua Program Studi dengan diketahui Dekan Fakultas/Direktur PPs.
+[297] Pergantian pembimbing dilakukan dengan Surat Keputusan Dekan atau Direktur PPs atas usulan Ketua Program Studi.
+[300] BAB IV
+[301] SISTEMATIKA, BAHASA, DAN TATA TULIS LAPORAN
+[304] Sistematika Laporan
+[306] Sistematika laporan Skripsi, Tugas Akhir, dan Tesis terdiri atas bagian awal, inti, dan akhir. Isi masing-masing bagian sebagai berikut:
+[308] Bagian Awal
+[309] Bagian awal Skripsi, Tugas Akhir, dan Tesis diketik dengan huruf Times New Roman ukuran 12 dengan spasi 1,5, kecuali pada bagian abstrak ditulis dengan spasi 1.
+[310] Sampul Luar
+[311] Sampul Skripsi, Tugas Akhir, dan Tesis memuat judul, tulisan Skripsi, Tugas Akhir atau Tesis, tujuan penulisan, logo UNISNU JEPARA, nama lengkap dan nomor induk mahasiswa (NIM), nama program studi, nama fakultas/program pascasarjana, nama universitas, dan tahun penyelesaian. Sampul luar dibuat dari kertas karton (hard cover) dengan warna dasar sesuai warna bendera fakultas masing-masing/program pascasarjana. Semua tulisan pada sampul luar Skripsi dan Tugas Akhir menggunakan tinta warna emas, sedangkan untuk Tesis menggunakan tinta warna hitam. Contoh format dan ukuran huruf sampul Skripsi, Tugas Akhir, dan Tesis dapat dilihat pada Lampiran II.
+[313] Sampul Dalam
+[314] Isi sampul dalam sama dengan isi sampul luar, dicetak pada kertas HVS berwarna putih dengan tinta hitam.
+[316] Abstrak (dalam Bahasa Indonesia)
+[317] Abstrak disusun dengan urutan: abstrak, nama penulis, NIM, judul, tahun lulus, dan isi abstrak. Isi abstrak ditulis dalam satu paragraf, berisi latar belakang, tujuan, metode, dan hasil. Abstrak ditulis dalam satu halaman dengan spasi tunggal dengan jumlah antara 250-500 kata. Pada bagian akhir abstrak disertakan kata kunci maksimal lima kata.
+[319] Abstrak (dalam Bahasa Inggris)
+[320] Format dan isi abstrak dalam Bahasa Inggris sama dengan format dan isi abstrak dalam bahasa Indonesia.
+[323] Abstrak (dalam Bahasa Arab)
+[324] Format dan isi abstrak dalam Bahasa Arab sama dengan format dan isi abstrak dalam bahasa Indonesia (khusus program pascasarjana).
+[326] Surat Pernyataan
+[327] Surat pernyataan bermeterai berisi pernyataan mahasiswa bahwa Skripsi, Tugas Akhir, dan Tesis yang ditulis merupakan karya sendiri dan asli, serta belum pernah diajukan sebagai syarat atau sebagai bagian dari syarat untuk memperoleh gelar ahli madya, sarjana, atau magister. Dicetak pada kertas dengan watermark logo UNISNU JEPARA ukuran 12,5x12,5 cm, posisi di tengah, gradasi watermark 10%.
+[329] Lembar Persetujuan Pembimbing
+[330] Lembar persetujuan memuat bukti persetujuan dari pembimbing. Lembar persetujuan harus disertakan pada saat ujian Skripsi, Tugas Akhir, dan Tesis. Unsur-unsur yang harus ada pada halaman persetujuan terdiri atas:
+[331] Persetujuan Pembimbing;
+[332] Nama lengkap;
+[333] Nomor Induk Mahasiswa (NIM);
+[334] Program Studi;
+[335] Judul Skripsi, Tugas Akhir, dan Tesis;
+[336] Tempat, tanggal, bulan, dan tahun; dan
+[337] Nama dan tanda tangan pembimbing.
+[339] Dicetak pada kertas dengan watermark logo UNISNU JEPARA ukuran 12,5x12,5 cm, posisi di tengah, gradasi watermark 10%.
+[341] Lembar Pengesahan
+[342] Lembar pengesahan memuat bukti pengesahan administratif dan akademik dari tim penguji atau majelis penguji, dan Dekan atau Direktur PPs. Halaman ini memuat hal-hal berikut.
+[343] Pengesahan;
+[344] Nama lengkap;
+[345] Nomor Induk Mahasiswa (NIM);
+[346] Program Studi;
+[347] Judul Skripsi, Tugas Akhir, dan Tesis;
+[348] Keterangan;
+[349] Hari dan Tanggal Diujikan;
+[350] Tempat, tanggal, bulan, dan tahun.
+[353] Tanda tangan Ketua Sidang, Sekretaris, Penguji, dan Dekan/Direktur.
+[354] Lembar pengesahan dibuat setelah ujian akhir, naskah Skripsi, Tugas Akhir, dan Tesis telah diperbaiki dan disahkan oleh majelis penguji dan Dekan atau Direktur PPs. Dicetak pada kertas dengan watermark logo UNISNU JEPARA ukuran 12,5x12,5 cm, posisi di tengah, gradasi watermark 10%.
+[356] Halaman Persembahan
+[357] Halaman ini dimaksudkan untuk menyampaikan kesan atau penghargaan kepada orang-orang yang memiliki arti penting bagi peneliti. Pengungkapan persembahan ditulis menggunakan font Times New Roman ukuran 12, spasi 1,5.
+[359] Halaman Moto
+[360] Halaman ini dimaksudkan untuk menyampaikan semboyan, pedoman atau prinsip peneliti. Penulisan moto menggunakan font Times New Roman ukuran 12, spasi 1,5.
+[362] Kata Pengantar
+[363] Kata pengantar dimaksudkan untuk menyampaikan puji syukur kepada Tuhan Yang Maha Esa dan ucapan terima kasih kepada pihak-pihak yang berjasa secara langsung dalam penulisan Skripsi, Tugas Akhir, dan Tesis, serta harapan-harapan yang terkait dengan hasil Skripsi, Tugas Akhir, dan Tesis dimulai dari pimpinan tertinggi universitas, fakultas/PPs, prodi, pembimbing, keluarga, dan kolega. Kata pengantar diketik dengan satu setengah spasi.
+[365] Daftar Isi
+[366] Daftar isi memuat garis besar isi Skripsi, Tugas Akhir, dan Tesis beserta nomor halamannya. Unsur Skripsi, Tugas Akhir, dan Tesis yang dimasukkan ke dalam daftar isi dimulai dari sampul dalam sampai dengan lampiran. Meskipun demikian, halaman-halaman tersebut tetap diperhitungkan untuk pemberian nomor halaman.
+[368] Daftar Tabel
+[369] Daftar tabel memuat nomor urut tabel, judul tabel, beserta nomor halaman tempat tabel tersebut disajikan.
+[371] Daftar Gambar
+[372] Daftar gambar (foto, skema, grafik, atau peta) disusun dengan sistematika nomor urut (angka arab), judul gambar beserta nomor halaman tempat gambar tersebut disajikan.
+[375] Daftar Lampiran
+[376] Daftar lampiran disusun dengan sistematika nomor urut (angka arab), judul lampiran beserta nomor halaman. Nomor halaman lampiran merupakan kelanjutan dari nomor halaman Skripsi, Tugas Akhir, atau Tesis.
+[378] Bagian Inti
+[379] Isi Bagian Inti Skripsi dan Tesis
+[380] Isi bagian inti Skripsi dan Tesis terdiri atas 5 bab, yaitu (1) Pendahuluan, (2) Landasan Teori, (3) Metode Penelitian, (4) Hasil dan Analisis, dan (5) Penutup. Secara rinci, isi bagian inti diuraikan sebagai berikut:
+[382] BAB I. PENDAHULUAN
+[383] Bab pendahuluan memuat latar belakang masalah, rumusan masalah, tujuan penelitian, dan manfaat penelitian.
+[384] Latar belakang masalah, menjelaskan alasan-alasan rasional yang melandasi pentingnya penelitian tersebut dilakukan. Untuk membuat alasan rasional perlu diungkapkan kesenjangan antara kenyataan yang terjadi dibandingkan dengan kenyataan yang diharapkan. Berbagai data, fakta, pendapat, keluhan dari lapangan/tempat penelitian perlu diungkap untuk memperkuat perlunya dilakukan penelitian.
+[385] Rumusan masalah, berisi penegasan masalah yang akan diteliti. Rumusan masalah dituliskan dalam kalimat tanya.
+[386] Tujuan penelitian, menyatakan target yang akan dicapai melalui penelitian. Tujuan dirumuskan selaras/mengacu kepada rumusan masalah.
+[387] Manfaat penelitian, menjelaskan manfaat hasil penelitian untuk kepentingan teoretis maupun praktis
+[389] BAB II. LANDASAN TEORI
+[390] Bab ini berisi kajian teori, kajian hasil penelitian yang relevan, kerangka pikir, pertanyaan penelitian dan/atau hipotesis. Landasan teori mengkaji teori, pengertian, dan variabel yang relevan, dan hasil penelitian yang sudah dimuat dalam berbagai sumber. Sumber dapat berupa buku teks, ensiklopedia, kamus, jurnal ilmiah, laporan penelitian, makalah seminar, prosiding, tesis ataupun disertasi. Artikel dalam internet juga dapat digunakan sebagai sumber apabila artikel ini dimuat dalam website pusat-pusat kajian atau penulis yang memiliki reputasi bukan dari pengarang yang tidak diketahui bidang keahliannya (blog). Handout atau materi pembelajaran tidak dapat digunakan sebagai sumber karena belum mengalami uji publik melalui publikasi.
+[393] Bab II ini bukan sekadar kumpulan kutipan, tetapi kutipan dan teori itu harus dibahas dan disintesiskan oleh peneliti/mahasiswa sehingga dapat memunculkan definisi, pemahaman baru, kerangka pikir, hipotesis dan/atau pertanyaan penelitian, serta mengembangkan instrumen yang sesuai dengan permasalahan yang diteliti. Hipotesis atau pertanyaan penelitian harus selaras dan merupakan jabaran dari rumusan masalah.
+[394] Kajian teori, menguraikan tentang teori-teori yang terkait dengan variabel penelitian dimulai dari definisi, konsep, asumsi, dan indikator yang digunakan untuk mengukur variabel tersebut sebagai landasan untuk mengembangkan instrumen penelitian. Kajian teori diperoleh dari literatur dan hasil penelitian yang relevan.
+[395] Hasil penelitian yang relevan, berfungsi untuk memperkuat posisi penelitian yang dilakukan saat ini dengan melihat hasil-hasil penelitian yang sudah dilakukan. Hasil penelitian yang relevan juga digunakan sebagai dasar peneliti menyusun kerangka berpikir. Hasil penelitian yang relevan disajikan secara narasi dengan menganalisis hasil penelitian yang satu dengan hasil penelitian yang lain.
+[396] Kerangka Berpikir, berisikan gambaran logis dan rasional tentang bagaimana variabel-variabel penelitian dapat saling berhubungan (korelasi). Kerangka berpikir akan mengarahkan peneliti kepada perumusan hipotesis. Penelitian yang tidak membuktikan hipotesis seperti penelitian dengan pendekatan kualitatif, tidak perlu menuliskan kerangka berpikir.
+[397] Pertanyaan Penelitian dan/atau Hipotesis
+[398] Pertanyaan penelitian merupakan penegasan dari rumusan masalah yang akan dicari jawabannya melalui penelitian. Hipotesis merupakan jawaban sementara terhadap rumusan masalah yang dinyatakan dengan kalimat pertanyaan. Untuk penelitian yang tidak membuktikan hipotesis, cukup menuliskan pertanyaan penelitian.
+[400] BAB III. METODE PENELITIAN
+[401] Metode penelitian dalam bab III ini dibedakan menjadi dua, yaitu penelitian kualitatif dan penelitian kuantitatif. Sistematika secara rinci sebagai berikut:
+[402] Penelitian Kualitatif
+[403] Jenis dan Pendekatan Penelitian
+[404] Pada bagian ini perlu dijelaskan bahwa pendekatan yang digunakan adalah pendekatan kualitatif, yang menyertakan alasan-alasan singkat mengapa pendekatan ini digunakan. Peneliti juga perlu mengemukakan jenis penelitian
+[407] yang digunakan apakah etnografis, studi kasus, grounded theory, interaktif, ekologis, partisipatoris, penelitian tindakan, atau penelitian kelas, dan lain-lain.
+[408] Waktu dan Tempat Penelitian
+[409] Pada bagian ini dipaparkan waktu pelaksanaan penelitian dan lokasi penelitian. Uraian lokasi penelitian diisi dengan identifikasi karakteristik lokasi dan alasan memilih lokasi serta bagaimana peneliti memasuki lokasi tersebut. Lokasi hendaknya diuraikan secara jelas. Misalnya letak geografis, bangunan fisik (jika perlu disertakan peta lokasi), struktur organisasi, program, dan suasana sehari-hari. Pemilihan lokasi harus didasarkan pertimbangan kemenarikan, keunikan, dan kesesuaian dengan topik yang dipilih. Dengan pemilihan lokasi ini diharapkan peneliti menemukan hal-hal baru dan bermakna.
+[410] Jenis dan Sumber Data
+[411] Pada bagian ini diuraikan jenis data, sumber data, dan teknik penjaringan data. Uraian tersebut meliputi data apa saja yang dikumpulkan, bagaimana karakteristiknya, siapa yang dijadikan subjek dan informan penelitian, bagaimana ciri-ciri informan dan subjek itu, dengan apa data dijaring, sehingga kredibilitasnya terjamin.
+[412] Teknik Pengumpulan Data
+[413] Bagian ini menguraikan teknik pengumpulan data yang digunakan, misalnya observasi partisipan, wawancara mendalam, dan dokumentasi. Selain itu dikemukakan cara-cara untuk memastikan keabsahan data dengan triangulasi dan waktu yang diperlukan dalam pengumpulan data.
+[414] Teknis Analisis Data
+[415] Langkah-langkah analisis data melibatkan pengerjaan, pengorganisasian, pemecahan, dan sintesis data serta pencarian pola, pengungkapan hal penting dan penentuan apa yang dilaporkan. Dalam penelitian kualitatif, analisis data dilakukan selama dan setelah pengumpulan data, dengan teknik-teknik misalnya analisis domain, analisis taksonomis, analisis komponensial, dan analisis tema.
+[416] Teknis Keabsahan Data
+[417] Agar diperoleh temuan dan interpretasi yang absah, maka perlu diteliti kredibilitasnya dengan menggunakan teknik perpanjangan kehadiran peneliti di lapangan, observasi yang diperdalam, triangulasi (menggunakan beberapa sumber, metode, motode, peneliti, teori), pembahasan sejawat, analisis kasus negatif, pelacakan kesesuaian hasil, dan pengecekan anggota. Selanjutnya perlu dilakukan pengecekan
+[420] dapat-tidaknya ditransfer ke latar lain (transferability), ketergantungan pada konteksnya (dependability), dan dapat-tidaknya dikonfirmasikan kepada sumbernya (confirmability).
+[422] Penelitian Kuantitatif
+[423] Jenis dan Pendekatan Penelitian
+[424] Peneliti perlu mengemukakan jenis dan pendekatan penelitian sesuai dengan permasalahan yang akan diteliti.
+[425] Waktu dan Tempat Penelitian
+[426] Pada bagian ini dipaparkan waktu pelaksanaan penelitian dan lokasi penelitian. Uraian lokasi penelitian diisi dengan identifikasi karakteristik lokasi dan alasan memilih lokasi serta bagaimana peneliti memasuki lokasi tersebut. Lokasi hendaknya diuraikan secara jelas. Misalnya letak geografis, bangunan fisik (jika perlu disertakan peta lokasi), struktur organisasi, program, dan suasana sehari-hari. Pemilihan lokasi harus didasarkan pertimbangan kemenarikan, keunikan, dan kesesuaian dengan topik yang dipilih. Dengan pemilihan lokasi ini diharapkan peneliti menemukan hal-hal baru dan bermakna.
+[427] Populasi dan Sampel Penelitian
+[428] Istilah populasi dan sampel tepat digunakan apabila penelitian yang dilakukan mengambil sampel sebagai subjek penelitian. Akan tetapi jika sasaran penelitiannya adalah seluruh anggota populasi, akan lebih cocok digunakan istilah subjek penelitian, terutama dalam penelitian eksperimental. Dalam survai, sumber data lazim disebut responden dan dalam kontekstual melalui pengumpulan data dari latar alami dengan memanfaatkan diri peneliti sebagai instrumen kunci. Penelitian kualitatif bersifat deskriptif dan cenderung menggunakan analisis dengan pendekatan induktif. Proses dan pemaknaan dalam perspektif subjek lebih ditonjolkan dalam penelitian kualitatif. Ciri-ciri penelitian kualitatif mewarnai sifat dan bentuk laporannya. Oleh karena itu, laporan penelitian kualitatif disusun dalam bentuk narasi yang bersifat kreatif dan mendalam serta menunjukkan ciri-ciri naturalistik yang penuh keauntentikan.
+[429] Instrumen Penelitian
+[430] Pada bagian ini dikemukakan instrumen yang digunakan untuk mengukur variabel yang diteliti. Sesudah itu barulah dikemukakan prosedur pengembangan instrumen pengumpulan data atau pemilihan alat dan bahan yang digunakan dalam penelitian. Dengan cara ini akan terlihat apakah instrumen yang digunakan sesuai dengan variabel
+[433] yang diukur, paling tidak ditinjau dari segi isinya. Sebuah instrumen yang baik juga harus memenuhi persyaratan reliabilitas.
+[434] Hal lain yang perlu diungkapkan dalam instrumen penelitian adalah cara pemberian skor atau kode terhadap masing-masing butir pertanyaan/pernyataan. Untuk alat dan bahan, harus disebutkan secara cermat spesifikasi teknis dari alat yang digunakan dan karaktistik bahan yang dipakai.
+[435] Teknik Pengumpulan Data
+[436] Bagian ini menguraikan: (a) langkah-langkah yang ditempuh dan tehnik yang digunakan untuk pengumpulan data, dan (b) kualifikasi dan jumlah petugas yang terlibat dalam proses pengumpulan.
+[437] Teknis Analisis Data
+[438] Pemilihan jenis analisis data sangat ditentukan oleh jenis data yang dikumpulkan dengan tetap berorientasi pada tujuan yang hendak dicapai atau hipotesis yang hendak diuji. Oleh karena itu, yang pokok untuk diperhatikan dalam analisis data adalah ketepatan teknik analisisnya, bukan kecanggihannya.
+[440] BAB IV. HASIL DAN ANALISIS
+[441] Bab ini terdiri atas dua bagian, yakni, hasil penelitian dan analisis hasil penelitian. Hasil penelitian harus menjawab pertanyaan penelitian dan disusun menurut urutan pertanyaan penelitian/hipotesis. Bagian analisis hasil penelitian merupakan bagian penting dari penelitian dan letaknya terpisah dari subbab hasil penelitian. Bagian analisis hasil penelitian memuat telaah kritis terhadap penelitian dengan menggunakan perspektif berbagai teori yang relevan yang telah dibahas pada Bab II dari Skripsi atau Tesis. Untuk penelitian tindakan dan atau penelitian tindakan kelas perlu ada subbab tentang Refleksi Perolehan Pengetahuan Peneliti.
+[443] BAB V. PENUTUP
+[444] Bab ini memuat dua subbab yaitu simpulan dan saran. Simpulan merupakan rangkuman dari jawaban pertanyaan penelitian atau hasil uji hipotesis dan sekaligus merupakan pemecahan permasalahan yang ada pada rumusan masalah. Simpulan harus pendek, merupakan deskripsi esensial, dan cenderung berbentuk pernyataan kualitatif, bukan angka-angka.
+[445] Saran merupakan rekomendasi yang ditujukan berbagai pihak terkait dengan hasil penelitian dan menggunakan bahasa yang operasional. Saran harus sesuai dengan hasil penelitian yang telah terangkum dalam simpulan.
+[450] Isi Bagian Inti Tugas Akhir
+[451] Isi bagian inti Tugas Akhir Bukan Skripsi terdiri dari 5 bab, yaitu (1) Pendahuluan, (2) Konsep Perancangan/Landasan Teori, (3) Proses Perancangan, (4) Kajian Karya, dan (5) Penutup. Secara rinci, isi bagian inti diuraikan sebagai berikut:
+[453] BAB I. PENDAHULUAN
+[454] Bab pendahuluan memuat latar belakang perancangan, rumusan ide perancangan, orisinalitas, tujuan dan manfaat.
+[455] Latar Belakang Perancangan
+[456] Jika diperlukan, sub-bab ini diawali dengan penjelasan topik, tema dan judul agar pembaca tidak salah tafsir apabila ada istilah-istilah asing atau yang menimbulkan tanda tanya. Contoh: “Wayang Wong”, judul Tugas Akhir produk mebel kayu ciptaan Jati Raharjo (2005) berasal dari bahasa daerah Bahasa Jawa, Jawa Tengah yang berarti “wayang orang”. Selanjutnya uraian tentang hal-hal spesifik yang mendorong, merangsang atau menjadi alasan timbulnya ide perancangan/timbulnya inspirasi/ masalah penciptaan. Dorongan atau inspirasi ini bisa jadi munculnya sudah setahun terakhir atau sudah terpendam beberapa tahun sebelumnya. Akhirnya dijelaskan hal-hal penting atau menarik dari ide yang akan diwujudkan.
+[458] Rumusan Ide Perancangan
+[459] Berisi kalimat pernyataan yang berkaitan dengan masalah perancangan, atau kegelisahan kreatif berupa asumsi sementara dan keluasan latar belakang masalah yang mengerucut pada bagaimana mewujudkan itu ke dalam produk, atau mengapa ide sepenting itu belum ada yang mewujudkannya ke dalam produk dan sebagainya.
+[461] Orisinalitas
+[462] Orisinalitas bisa dirunut berdasarkan subjek/tema, materi subjek (subject matter), ide, bentuk/konsep/cara ungkap, dan media/teknik. Dalam penerapan orisinalitas tidak cukup hanya penjelasan yang bersifat subjektif/internal, seperti pengakuan penulis bahwa ia tidak meniru karya siapapun, tetapi perlu membuat komparasi dengan karya-karya terdahulu/seniman lain yang menganggap subjek/tema/ide serupa, atau dengan gaya serupa. Pada aspek apanya karya anda paling orisinal? Atau di mana letak persamaan dan perbedaan dengan karya terdahulu.
+[465] Tujuan dan Manfaat
+[466] Tujuan (berisi butir-butir pemikiran berkaitan langsung dengan produk yang akan diciptakan (ide dan bentuk/wujudnya), permasalahan bidang ilmu/cabang desain yang bersangkutan, contoh: perancangan mebel yang mengungkapkan kontradiksi budaya tradisional dan modern.
+[467] Manfaat (jika tujuan tercapai, apa manfaatnya bagi diri sendiri/personal, bagi masyarakat/sosial, bagi cabang seni/desain, bagi lembaga); contoh: (a) Melalui seni lukis meningkatkan kepekaan diri sendiri maupun masyarakat tentang adanya kontradiksi antara tradisi dan modernitas dalam kehidupan sehari-hari, (b) Memperkaya ide dan wujud desain dengan materi subjek tersebut.
+[469] BAB II. KONSEP PERANCANGAN/LANDASAN TEORI
+[470] Bab ini berisi kajian sumber perancangan, landasan perancangan, dan konsep perwujudan/penggarapan.
+[471] Kajian Sumber Perancangan
+[472] Diawali dengan definisi/pengertian subjek kajian dan lingkupnya. Di sini dilakukan kajian terhadap berbagai sumber yang memberi inspirasi dan menunjang gagasan dan perwujudannya; bisa bersumber dari fenomena alam, lingkungan sosial, lingkungan budaya, dan produk yang pernah ada. Bahan-bahan bisa didapat dari hasil observasi, data pustaka, rekaman dan lain-lain. Fakta-fakta yang dikemukakan diusahakan berasal dari sumber aslinya, karena memiliki nilai validitas yang tinggi. Setiap sumber yang dikaji harus disebutkan nama pengarangnya/penciptanya termasuk tahun penerbitan/ penciptaannya.
+[473] Landasan Perancangan
+[474] Penjelasan singkat tentang paradigma, landasan teori atau faham yang dipilih yang menjadi dasar yang kuat dalam perancangan produk. Bagian ini berkaitan erat dengan ide/tujuan dan kajian sumber. Bagian ini sama dengan landasan teori yang digunakan untuk menyusun kerangka berpikir sebelum dilakukan pendekatan atau analisis terhadap subjek perancangan.
+[475] Konsep Perwujudan/Penggarapan
+[476] Pemikiran yang berkaitan dengan bagaimana mentransformasikan ide menjadi wujud produk.
+[477] Contoh: dalam mewujudkan ide tentang manusia yang tereliminasi/terpinggirkan, pematung Giacometti mempunyai konsep perwujudan dengan cara memanjangkan (elongated) bentuk figur-figurnya sehingga menyerupai lidi.
+[480] Dan bagian ini dapat dijelaskan bagaimana elemen bentuk dan pendukungnya akan disusun dan diperlakukan sejalan dengan landasan penciptaan dan idenya
+[482] BAB III. PROSES PERANCANGAN
+[483] Dalam garis besar proses perancangan karya desain dapat terdiri dari tiga tahap penting: tahap ide, tahap perancangan, dan tahap pelaksanaan. Walaupun demikian tahap-tahap tersebut dapat lebih dielaborasikan seperti dua model di bawah ini.
+[484] Metode perancangan umumnya mewujudkan produk secara sistematik. Salah satu contoh model dan pentahapan dalam perancangan desain yang diacu dari pandangan Hawkins (1991) adalah meliputi:
+[485] Eksplorasi: (a) penetapan tema, ide, dan judul karya; (b) berfikir, berimajinasi, merasakan, menanggapi, dan menafsirkan tema terpilih.
+[486] Improvisasi/Eksperimentasi: (a) memilih, membedakan, mempertimbangkan, menciptakan harmonisasi dan kontras-kontras tertentu, (b) menemukan integritas dan kesatuan melalui berbagai percobaan.
+[487] Pembentukan/pewujudan: (a) menentukan bentuk ciptaan dengan menggabungkan simbol-simbol yang dihasilkan dari berbagai percobaan yang telah dilakukan, (b) menentukan kesatuan dan parameter yang lain, seperti ukuran, ketepatan dan kenyamanan, bentuk, dan warna, (c) pemberian bobot desain, dramatisasi, simbolis, estetis dan bobot spiritualitas.
+[489] Model perancangan lain yang ditawarkan oleh Konsorsium, meliputi:
+[490] persiapan, berupa pengamatan, pengumpulan informasi dan gagasan;
+[491] elaborasi, untuk menetapkan gagasan pokok melalui analisis, integritas, generalisasi, dan transmutasi;
+[492] sintesis, untuk mewujudkan konsepsi produk;
+[493] realisasi konsep ke dalam bebagai media, dan
+[494] penyelesaian, ke dalam bentuk akhirnya produk.
+[495] Mengingat keunikan masing-masing produk, maka proses perancangan, materi karya dan uraiannya disesuaikan dengan metode yang dipilih. Karena pada kenyataannya tahap perancangan tidak selalu berurutan bahkan kadangkala saling tumpang tindih yang hasil akhirnya bisa tidak sama persis dengan rancangan diawalnya dan ada pula yang sangat improvisatif dan intuitif.
+[498] BAB IV. KAJIAN KARYA
+[499] Bagian ini menyajikan ulasan tentang produk yang telah diciptakan dan telah disajikan dalam pameran. Penampilannya bisa dalam bentuk foto disertai dengan tugas akhir yang melengkapi ulasan yang dikemukakan. Dalam hal ini, foto-foto dokumentasi yang produk secara utuh dan detail yang ingin disajikan atau bagian-bagian perlu ditampilkan. Mahasiswa di samping mengulas aspek-aspek wujud karya dan penggarapannya yang tampak (visual maupun visible) tingkat kenyamanan dilihat dari kajian argonomi maupun kajian antrometri, kajian estetika baik warna maupun bentuk juga mengulas yang tak tampak dan tak terlihat (intangibel dan invisible) dari produk yang diciptakannya dilihat dari kajian estetika kekuatan maupun kontruksi, kendala, kemungkinan teknis dan inovatif yang bisa diproyeksikan, serta kemungkinan pemakai serta pangsa pasar yang hendak dibidik.
+[500] Setelah memperoleh masukan atau kritikan dari para pengunjung/penonton pameran, khususnya dari dewan penguji, dengan sendirinya akan disertai dengan masukan dari dewan penguji baik penambahan dan penyempurnaan dalam ulasan atau hasil evaluasi dalam laporan atau pertanggungjawaban tertulis produknya.
+[502] BAB V. PENUTUP
+[503] Bab ini berisi simpulan dan saran. Simpulan merupakan rangkuman dari jawaban pertanyaan kajian dan sekaligus merupakan pemecahan permasalahan yang ada pada rumusan masalah. Saran merupakan rekomendasi yang ditujukan berbagai pihak terkait dengan hasil kajian/penciptaan dan menggunakan bahasa yang operasional.
+[505] Bagian Akhir
+[506] Daftar Pustaka
+[507] Daftar pustaka memuat identitas semua buku, jurnal, laporan penelitian, referensi dari internet, dan sumber lain yang diacu dalam penulisan Tugas Akhir, serta disebut di dalam bagian isi. Sumber yang tidak dikutip dalam bagian isi tidak boleh dicantumkan di dalam daftar pustaka. Sebaliknya, semua sumber yang disebut di dalam bagian isi, harus dicantumkan pada daftar pustaka. Daftar pustaka disusun menggunakan aplikasi sitasi (Mendeley, Zotero, dll). Style Citation menggunakan APA Style.
+[509] Lampiran-lampiran
+[510] Lampiran memuat semua dokumen atau bahan penunjang yang digunakan atau dihasilkan dalam penelitian Tugas Akhir. Lampiran  antara  lain  berupa  surat  izin  penelitian,  instrumen
+[513] penelitian, rumus-rumus, penghitungan statistik yang dipakai, prosedur penghitungan, hasil uji coba instrumen, dan sejenisnya. Sementara itu, lampiran untuk penelitian kualitatif antara lain contoh transkrip wawancara yang disahkan responden, hasil reduksi dan abstraksi, catatan lapangan, bukti-bukti (FGD). Lampiran diberi nomor secara urut menurut urutan prosedur penelitian, dan nomor halamannya merupakan kelanjutan dari nomor halaman bagian inti.
+[515] Bahasa dan Tata Tulis
+[517] Bahasa
+[518] Tugas Akhir ditulis dalam bahasa Indonesia, bahasa Arab atau bahasa Inggris dengan ragam bahasa ilmiah.
+[519] Tata Tulis
+[520] Tata tulis Tugas Akhir adalah sebagai berikut:
+[521] Kertas.
+[522] Tugas Akhir diketik pada kertas berwarna putih, berukuran A4 (21,5 cm x 29,7 cm), dengan berat 80 gram. Apabila di dalam naskah memerlukan kertas khusus seperti kertas milimeter untuk grafik, kertas kalkir untuk bagan atau peta dan sejenisnya, dapat digunakan kertas di luar ukuran yang telah ditentukan, yang dilipat sesuai dengan ukuran kertas naskah.
+[523] Tugas Akhir diketik dengan ketentuan sebagai berikut.
+[524] menggunakan spasi ganda.
+[525] tanda baca melekat pada kata di depannya (contoh: kertas, pensil, dan tinta).
+[526] Jarak setelah tanda baca dituliskan:
+[527] setelah tanda baca titik (.), koma (,), titik koma (;), titik dua (:), tanda seru (!), dan tanda tanya (?) satu ketukan, dengan kata di depannya.
+[528] Kurung buka dan kurung tutup (…) ditulis tanpa ketukan dengan kata/angka di dalamnya.
+[529] garis miring (/) ditulis tanpa ketukan terhadap kata sebelum dan sesudahnya.
+[530] Judul tabel dan gambar yang terdiri atas dua baris atau lebih, ditulis dengan jarak satu spasi. Penulisan judul menggunakan huruf yang sama dengan naskah, dengan huruf kapital setiap awal kata, kecuali kata tugas. Nama tabel diletakkan di atas tabel sedangkan nama gambar diletakkan di bawah gambar.
+[531] Daftar pustaka dituliskan:
+[532] Jarak antarbaris dalam satu pustaka adalah satu spasi.
+[533] Jarak antarpustaka adalah dua spasi.
+[536] Batas Tepi Pengetikan
+[537] Batas tepi pengetikan ditentukan sebagai berikut. Tepi atas	: 4 cm
+[538] Tepi bawah	: 3 cm Tepi kiri	: 4 cm
+[539] Tepi kanan	: 3 cm
+[540] Pengetikan Alinea Baru
+[541] Pengetikan alinea baru dimulai satu tab dengan jarak 10 mm dari tepi kiri alinea. Setiap alinea minimal terdiri dari tiga kalimat yang terdiri dari pokok pikiran, kalimat penjelas, dan kalimat penghubung ke paragraf berikutnya.
+[542] Pengetikan Bab, Subbab, dan Anak Subbab
+[543] Nomor bab dan judul bab diketik di tengah-tengah batas kanan dan kiri. Lihat hierarki penulisan dan penomoran bab dan subbab. Nomor bab ditulis dengan angka romawi, judul bab ditulis dengan huruf kapital, serta ditebalkan (bold).
+[544] Pengetikan judul subbab dan nomor subbab dimulai dari tepi kiri. Huruf awal setiap kata dalam judul subbab ditulis dengan huruf kapital kecuali kata tugas (dan, di, ke, dari, untuk, yang) yang tidak pada awal judul. Penomoran subbab menggunakan huruf kapital (A, B, C, dan seterusnya.), judul subbab ditebalkan (bold).
+[545] Pengetikan anak subbab dimulai dari tepi kiri. Huruf awal setiap kata dalam anak subbab ditulis dengan huruf kapital kecuali kata tugas (dan, di, ke, dari, untuk, yang) yang tidak pada awal judul. Penomoran anak subbab menggunakan angka arab (1, 2, 3, dan seterusnya.).
+[546] Huruf
+[547] Huruf yang digunakan adalah Times New Roman font 12.
+[548] Penomoran
+[549] Penomoran Halaman
+[550] Nomor halaman diletakkan di bagian bawah tengah, dua spasi di bawah baris terakhir naskah. Nomor halaman ditulis dengan angka arab, dimulai dari bab pendahuluan sampai lampiran. Halaman-halaman sebelumnya (halaman judul, kata pengantar, daftar isi, daftar tabel, daftar gambar, dll.) menggunakan angka romawi kecil.
+[551] Penomoran Rumus Matematik
+[552] Jika di dalam laporan penelitian terdapat beberapa rumus atau persamaan matematik, penomorannya menggunakan angka arab yang ditempatkan di tepi kanan, di antara dua tanda kurung.
+[555] Hierarki Penggunaan Nomor dan Huruf Urutannya:
+[557] BAB I (sesuai urutan) PENDAHULUAN (sesuai urutan, di tengah-tengah)
+[559] Aaaaa (mulai dari kiri halaman)
+[561] (bila diawali alinea)
+[563] Bbbbbbbbbbbb
+[565] (bila diawali alinea)
+[567] Ccccccccccc
+[569] (bila diawali alinea)
+[571] 1)	Ddddddddd
+[573] (bila diawali alinea)
+[575] Huruf Miring dan Huruf Kapital
+[576] Penggunaan huruf miring dan huruf kapital dalam bagian isi Tugas Akhir mengikuti aturan yang ditetapkan dalam Pedoman Ejaan yang Disempurnakan. Penggunaan huruf miring dalam naskah Tugas Akhir untuk menuliskan kata atau kalimat dalam bahasa asing atau bahasa daerah. Penggunaan huruf miring dan huruf kapital dalam penulisan daftar pustaka mengikuti aturan penulisan daftar pustaka dalam buku ini.
+[578] Penyajian Tabel dan Gambar
+[579] Tabel
+[580] Tulisan “Tabel”, nomor tabel, dan judul tabel dicantumkan di atas tabel, di tengah-tengah antara tepi kanan dan kiri.
+[581] Nomor dan judul tabel diketik dalam satu baris, secara berurutan ke kanan berjarak satu spasi.
+[582] Nomor tabel di dalam teks menggunakan angka arab, berurutan, dari bab pertama sampai bab terakhir.
+[583] Nomor tabel dalam lampiran menggunakan angka arab dimulai dengan nomor 1.
+[584] Setiap tabel disajikan tidak lebih dari satu halaman (tidak terpotong). Tabel yang melebihi satu halaman diletakkan di dalam lampiran.
+[589] Gambar
+[590] Gambar meliputi foto, grafik, diagram, peta, bagan, skema, dan objek lain yang sejenis. Penyajiannya mengikuti ketentuan sebagai berikut.
+[591] Tulisan “Gambar”, nomor gambar, dan judul gambar diletakkan di bawah gambar, di tengah antara tepi kiri dan kanan.
+[592] Nomor dan judul gambar ditulis dalam satu baris, berurutan kekanan satu baris dengan nomor tabel berjarak satu spasi.
+[593] Nomor gambar di dalam teks menggunakan angka arab, berurutan, dari bab pertama sampai bab terakhir.
+[594] Nomor gambar dalam lampiran menggunakan angka arab dimulai dengan nomor 1.
+[596] Kutipan
+[597] Cara Menulis Kutipan Langsung
+[598] Kutipan langsung ditulis sama persis dengan yang tertulis di dalam sumber aslinya, baik mengenai bahasa maupun ejaan. Kutipan langsung yang terdiri dari empat baris atau lebih diketik satu spasi, dimulai pada ketukan keenam dari tepi kiri, tempat tanda petik (“). Kutipan langsung yang panjangnya kurang dari empat baris dimasukkan ke dalam teks, Apabila dipandang perlu, beberapa kata sebelum bagian yang dikutip dapat dihilangkan dan diganti dengan tanda ellipses (tiga titik berderet). Sumber kutipan langsung ditulis dengan menyebutkan nama pengarang, tahun penerbitan, nomor halaman. Contoh: (Santrock, 2010:218), (Pardjono, 2014:12).
+[600] Cara Menulis Kutipan tidak Langsung
+[601] Kutipan tidak langsung merupakan intisari dari tulisan yang disajikan dalam bahasa penulis. Kutipan tersebut ditulis dengan spasi ganda sama seperti teksnya. Sumber kutipan tidak langsung ditulis sebagaimana kutipan langsung, contoh: (Balito & Padwad, 2013:57-62).
+[603] Penulisan Nama Penulis Sumber Acuan
+[604] Penulisan Nama Penulis dalam Bagian Inti Tugas Akhir
+[605] Pada prinsipnya, untuk pengarang yang namanya terdiri atas lebih dari satu kata (bagian), yang mengandung nama marga atau nama keluarga, penulisan namanya dalam bagian inti Tugas Akhir dilakukan dengan hanya menuliskan nama marganya saja.
+[606] Nama pengarang asing (bukan orang Indonesia), pada umumnya bagian terakhir dari namanya merupakan nama
+[609] marga. Penulisan namanya di dalam bagian inti Tugas Akhir hanya nama terakhirnya saja.
+[610] Untuk orang Indonesia yang namanya terdiri lebih dari satu kata atau bagian, jika kata atau bagian akhir merupakan nama marga misalnya: Nasution, Sembiring, Panjaitan, Sitorus, penulisan namanya dalam bagian inti Tugas Akhir dilakukan dengan hanya menuliskan nama marganya.
+[611] Untuk orang Indonesia yang namanya terdiri lebih dari satu kata atau bagian, jika nama bagian depan merupakan nama baptis, penulisan dalam bagian inti Tugas Akhir dilakukan dengan tanpa menuliskan nama baptis itu.
+[612] Untuk orang Indonesia yang namanya terdiri atas lebih dari satu kata atau bagian, yang tidak diketahui mana nama marganya, penulisan namanya dalam bagian inti ditulis nama terakhirnya saja.
+[613] Jika acuan merupakan Peraturan Pemerintah atau Undang-Undang, atau buku pedoman, penulisannya dalam bagian inti Tugas Akhir dilakukan sebagai berikut.
+[615] Contoh 1.
+[616] Dalam  Peraturan  Pemerintah  RI  Tahun  2014  Nomor
+[617] …..tentang …. disebutkan bahwa…...
+[619] Contoh 2.
+[620] Tentang standar dosen dan tenaga kependidikan sudah ditentukan bahwa dosen untuk program sarjana harus berkualifikasi akademik paling rendah lulusan magister atau magister terapan yang relevan dengan program studi (Peraturan Pemerintah RI Nomor ….. Tahun 2014 tentang
+[621] ……)
+[623] Contoh 3.
+[624] Dalam Undang-Undang Sistem Pendidikan …. (Undang-Undang Nomor …. Tahun 2003 tentang ….) disebutkan bahwa ….
+[626] Contoh 4.
+[627] Tentang pembagian urusan pemerintahan pusat dengan pemerintahan daerah dalam bidang pendidikan dijelaskan bahwa pendidikan merupakan salah satu urusan pemerintahan wajib, terkait dengan Pelayanan Dasar yakni pelayanan publik untuk memenuhi kebutuhan dasar warga negara (Undang-Undang RI Nomor Tahun 2014 tentang).
+[630] Jika lebih dari satu Peraturan Pemerintah atau Undang-Undang dengan tahun yang sama, penulisan angka tahunnya ditambah dengan huruf a, b, c, dan seterusnya untuk menunjukkan urutannya, yang sesuai dengan urutannya di dalam daftar pustaka.
+[631] Naskah/dokumen yang belum dipublikasikan belum layak untuk dijadikan referensi.
+[633] Penulisan Nama Pengarang di dalam Daftar Pustaka
+[634] Pada prinsipnya, untuk pengarang yang namanya lebih dari satu kata atau bagian, yang mengandung nama marga atau nama keluarga, penulisannya dalam daftar pustaka, nama marga lebih dulu, tanda koma, dan dilanjutkan dengan singkatan nama lainnya.
+[635] Untuk orang asing (bukan orang Indonesia), kata terakhir dari namanya merupakan nama marga, penulisan namanya di dalam daftar pustaka dilakukan dengan menuliskan kata (bagian) terakhirnya lebih dulu, kemudian diikuti dengan tanda koma, dan dilanjutkan dengan singkatan nama lainnya. Pengecualian:
+[636] Kata de, den, bin, binti, van, dan von, yang merupakan bagian dari nama, tidak disingkat.
+[637] Untuk orang Indonesia yang namanya terdiri lebih dari satu kata, jika kata terakhir merupakan nama marga atau diyakini sebagai nama marga (misalnya: Napitupulu, Siagian, Sembiring, Panjaitan, Sitorus), penulisan namanya dalam daftar pustaka dilakukan dengan menuliskan nama marganya lebih dulu, kemudian diikuti dengan tanda koma, dan dilanjutkan dengan singkatan nama lainnya.
+[638] Untuk orang Indonesia yang namanya lebih dari satu kata, jika kata yang di depan merupakan nama baptis, penulisan namanya dalam daftar pustaka dilakukan dengan menuliskan nama aslinya, tanda koma, kemudian diakhiri dengan singkatan nama baptis.
+[639] Untuk orang Indonesia yang namanya lebih dari satu kata, yang tidak diketahui nama marganya, penulisan nama dalam daftar pustaka dilakukan dengan menuliskan nama terakhirnya, tanda koma, kemudian diakhiri dengan singkatan nama depan.
+[642] Contoh:
+[644] Kesesuaian antara Sumber yang Diacu di dalam Bagian Inti dan Isi Daftar Pustaka.
+[645] Setiap sumber yang diacu di dalam bagian inti Tugas Akhir harus terdapat di dalam daftar pustaka.
+[646] Sumber yang tidak disebut (tidak diacu) di dalam bagian inti Tugas Akhir tidak boleh dicantumkan di dalam daftar pustaka.
+[648] Penulisan Daftar Pustaka
+[649] Penulisan daftar pustaka mengikuti sistem APA (American Psychological Association), dengan sedikit perubahan atau penyesuaian, yaitu: (1) untuk penulisan nama penulis atau pengarang yang lebih dari seorang, (2) untuk penulisan pustaka hasil penerjemahan, (3) untuk penulisan pustaka hasil penyuntingan, dan
+[650] (4) untuk penulisan nama penulis yang berjumlah lebih dari tiga orang.
+[651] Penulisan Dafar Pustaka mengikuti aturan sebagai berikut:
+[652] Jika penulis atau pengarang pustaka lebih dari seorang, antara nama penulis atau pengarang terakhir dan penulis atau pengarang sebelum di hubungkan dengan tanda ‘&’, bukan kata ‘dan’ bukan pula kata ‘end’.
+[655] Istilah ‘et al’. digunakan jika penulisan atau pengarang berjumlah lebih dari tiga orang.
+[656] Penulisan pustaka hasil penyuntingan dan terjemahan dilakukan sesuai dengan contoh.
+[657] Penulisan isian daftar pustaka yang berupa buku mengikuti urutan: nama pengarang, tahun terbit, nama buku, kota tempat penerbit, dan nama penerbit. Penulisan nama pengarang sesuai dengan ketentuan di Bagian 2) di atas. Apabila pemilik nama tersebut berperan sebagai penyunting buku, di belakang nama diberi tanda (Ed.).
+[658] Catatan kaki (footnote) untuk menyebutkan sumber tidak dipergunakan.
+[660] Contoh Penulisan Nama dalam Daftar Pustaka
+[661] Pengarang bernama Robert Kersmis Sembiring. Di dalam daftar pustaka ditulis Sembiring, R.K., sebagai berikut:
+[662] Sembiring, R.K. (1989). Bandung: Penerbit ITB.
+[664] Pengarang bernama Bacharuddin Jusuf Habibi. Di dalam daftar pustaka ditulis Habibie, B.J., sebagai berikut:
+[665] Habibie, B.J. (2003). Jakarta: Pustaka Teknika.
+[667] Pengarang bernama Abdul Halim Nasution. Di dalam daftar pustaka ditulis Nasution, A.H., sebagai berikut:
+[668] Nasution,	A.H.	(2003).	Matematika	sebagai	bahasa	sains.
+[669] Bandung: Pelita Ilmu.
+[671] Pengarang bernama Mafrukah Noor. Di dalam daftar pustaka ditulis Noor, M. sebagai berikut:
+[672] Noor, M. (1999). Laporan Penelitian Kerja Sama Lembaga Penelitian Universitas Negeri Yogyakarta dengan Balitbang, Depdikbud. Yogyakarta: Lembaga Penelitian Universitas Negeri Yogyakarta.
+[674] Pengarang bernama Iswara Amitaba Budivaya. Di dalam daftar pustaka ditulis Budivaya, I.A., sebagai berikut:
+[675] Budivaya, I.A. (1981). Kamus istilah Psikologi. Jakarta: Mutiara Bahasa.
+[677] Contoh Penulisan entry dalam Daftar Pustaka
+[678] Artikel jurnal, seorang pengarang
+[679] Dudley, P. (2013). Teacher learning in lesson study: What interaction- level discourse analysis revealed about how teachers  utilised  imagination,  tacit knowledge of teaching
+[682] and fresh evidence of pupils learning, to develop practice knowledge and so enhance their pupils’ learning. Teaching and Teacher Education, 34, 107-121.
+[684] Artikel jurnal, dua sampai tiga orang pengarang
+[685] Chaona, S. & Inprasitha, N. (2013). Teacher’s assessment for students’ learning in classroom using lesson study and open approach. Psychology, 4, 1079-107.
+[687] Artikel jurnal, lebih dari tiga orang pengarang
+[688] Schwendimann, B.A., Cattaneo, A.A.C., Zufferey, J.D., et al. (2015). The ‘Erfahrraum’: a pedagogical model for designing edu cational technologies in dual vocational systems. Journal of Vocational Education & Training, 67, 367-396
+[690] Artikel majalah
+[691] Kandel, E. R., & Squire, L. R. (10 November 2000). Neuroscience: Breaking down scientific barriers to the study of brain and mind. Science, 290, 1113-1120.
+[693] Artikel, yang ada nama pengarangnya
+[694] Brown, L. S. (Mei 1993). Antidomination training as a central component of diversity in clinical psychology education. The Clinical Psychologist, 46, 83-87.
+[696] Artikel, yang tidak ada nama pengarangnya
+[697] The new health-care lexicon. (September 1993). Editor, 4, 1-2.
+[699] Artikel surat kabar, yang tidak ada nama penulisnya
+[700] Ketika tata rias menjadi kebutuhan. (17 April 2016). Kedaulatan Rakyat, hlm.10.
+[702] Artikel surat kabar, yang ada nama penulisnya Sutanto, L. (16 April 2016). Kekerasan ujaran. , hlm.7.
+[704] Buku dengan penulis satu orang
+[705] Santrock, John W. (2010). Educational Psychology (5thed). New York: McGraw-Hill Companies, Inc.
+[707] Buku yang terbit dengan edisi.
+[708] Greenberg, J. & Baron, R. A. (2003). Behavior in organizartion. Understanding and managing the human side of work (8d ed.). New Jersey: Prentice Hal International Inc.
+[711] Buku diterbitkan oleh lembaga pemerintah, tanpa nama pengarang
+[712] Australian Bureau of Statistics. (1991). Estimated resident population by age and sex in statistical local areas. New South Wales, June 1990 (No. 3209. 1). Canberra, ACT: Australia Bureau of Statistics.
+[714] Buku hasil penyuntingan dua orang
+[715] Gibbs, J. T., & Huang, L. N. (Eds.). (1991). Children of color: Psychological interventions with minority youth. San Francisco, CA: Jossey-Bass.
+[717] Buku, tidak ada nama pengarang atau penyunting
+[718] Merriam	-Webster's	collegiate	dictionary	(10th	ed.).	(1993).
+[719] Springfield, MA: Merriam-Webster.
+[721] Buku hasil revisi
+[722] Rosenthal, R. (1987). Meta-analytic procedures for social research
+[723] (Rev. ed.), Newbury Park, CA: Sage.
+[725] Ensiklopedi, ada nama penyuntingnya (editor)
+[726] Sadie, S. (Ed.). (1980). The new grove dictionary of music and musicians (6 ed., Vols. 1-20). London: Macmillan.
+[728] Buku terjemahan
+[729] Robbins, S. P. (2006). Perilaku Organisasi: konsep kontroversi, Aplikasi. (Terjemahan Benyamin Molan). Jakarta: PT. Prenhallindo. (Edisi asli diterbitkan tahun 2003 oleh Pearson Education Inc. New Jersey Upper Saddle River).
+[731] Artikel dalam buku suntingan dengan dua orang penyunting Bjork, R. A. (1989). Retrievel inhibition as an adaptive mechanism
+[732] in human memory. Dalam H. L. Roediger III & F. I. M. Craik (Eds.), Varietes of Memory & Consciousness (pp.309-330). Hillsdale, Nj: Lawrence Erlbaum and Associates.
+[734] Laporan dari lembaga pemerintah, tanpa nama pengarang National Institute of Mental Health. (1990). Clinical training in
+[735] serious mental illness (DHHS Publication No. ADM 90-1679). Washington, DC: U.S. Government Printing Office.
+[738] Proceedings yang diterbitkan secara berkala
+[739] Cynx, J., Williams, H., & Nottebohm, F. (1992). Hemispheric differences in avian song discrimination. Proceedings of the National Academy of Sciences, USA, 89, 1372-1375.
+[741] Makalah yang disajikan dalam suatu seminar atau konferensi Sularno, A. & Budiman, M. (Januari 1991). Data awal tentang
+[742] gejala trauma pada anak-anak. Makalah disajikan dalam Seminar Pencegahan Salah Asuhan Anak, di Universitas Negeri Yogyakarta.
+[744] Disertasi doktor, yang diterbitkan oleh
+[745] Ross, D. F. (1990). Unconscious transference and mistaken iderntity: When a witness misidentifies a familiar but innocent person from a lineup (Disertasi doktor, Cornell University, 1990). Dissertation Abstracts International, 51, 417.
+[747] Disertasi doktor, yang tidak diterbitkan
+[748] Waluyanti, S. (2015). Pengembangan profesionalisme berkelanjutar SMK melalui musyawarah guru mata pelajaran. Disertasi doktor, tidak diterbitkan, Universitas Negeri Yogyakarta, Yogyakarta.
+[750] Tesis magister, yang tidak diterbitkan
+[751] Zahroh, S.M. (2015). Pengaruh model collaborative learning terhadap IPA siswa kelas V SD se-gugus motivasi dan prestasi belajar Makukuhan Kabupaten Magelang. Tesis magister, tidak diterbitkan, Universitas Negeri Yogyakarta, Yogyakarta.
+[753] Tesis master, yang tidak diterbitkan
+[754] Almeida, D. M. (1990). Fathers'particjpation in family work: Consequences for fathers stress and father-child relations. Tesis master, tidak diterbitkan, University of Victoria, Victoria, British Columbia, Canada.
+[756] Artikel di internet, tetapi materi cetaknya diterbitkan dalam jurnal
+[757] Roberts, G. T, Dooley, K. E., Harlin, J. F., Murphrey, T. P. (2006). Copetencies and traits of successful agricultural science teachers. [Versi elektronik]. Journal of Career and Technical Education, 22, 2-8.
+[760] Artikel dalam jurnal, yang jurnalnya hanya terbit dalam internet Fredrickson, B. L. (7 Maret 2000). Cultivating positive emotions to
+[761] optimize health and well-being. Prevention & Treatment. 3, Artikel 0001a. Diambil pada tanggal 20 November 2000, dari http://journals.apa.org/prevention/volime3/ pre0030001a.html
+[763] Undang-Undang
+[764] Depdikbud. (2003). Undang-Undang RI Nomor 20, Tahun 2003, tentang Sistem Pendidikan Nasional.
+[766] Peraturan Pemerintah
+[767] Kemenristekdikti. (2015). Peraturan Pemerintah RI Nomor 13, Tahun 2005, tentang Perubaharn Kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan.
+[770] BAB V UJIAN AKHIR
+[772] Ketentuan Pelaksanaan Ujian.
+[774] Setelah mahasiswa mengisi formulir Pengajuan Ujian melalui e-Skripsi/Tesis dan memenuhi persyaratan ujian Skripsi, Tugas Akhir, dan Tesis.
+[775] Langkah-langkah pelaksanaan ujian adalah sebagai berikut:
+[777] Persyaratan Administratif
+[778] Persyaratan administratif bagi mahasiswa yang akan mengikuti ujian Skripsi, Tugas Akhir, dan Tesis diatur sebagai berikut:
+[779] Terdaftar sebagai mahasiswa aktif UNISNU JEPARA.
+[780] Mencantumkan mata kuliah Skripsi, Tugas Akhir, atau Tesis dalam Kartu Rencana Studi pada semester berjalan.
+[781] Menyerahkan logbook bimbingan Skripsi, Tugas Akhir, atau Tesis.
+[782] Menyerahkan bukti pembayaran ujian Skripsi, Tugas Akhir, atau Tesis.
+[783] Menyerahkan naskah Skripsi, Tugas Akhir, atau Tesis yang telah disetujui oleh pembimbing sejumlah 4 eksemplar.
+[785] Persyaratan Akademis
+[786] Persyaratan pengajuan ujian Skripsi, Tugas Akhir, atau Tesis.
+[787] Telah lulus semua mata kuliah, sesuai dengan kurikulum yang berlaku dibuktikan dengan transkrip nilai dengan Indeks Prestasi Komulatif (IPK) minimal 2,75 untuk program sarjana dan 3,0 untuk program magister.
+[788] Memiliki skor TOEFL dengan skor minimal 450 untuk program studi Pendidikan Bahasa Inggris dan program magister, dan 400 untuk program studi selain Pendidikan Bahasa Inggris dan program magister.
+[789] Lolos cek plagiasi dengan similarity kurang atau di bawah 30% .
+[790] Lulus ujian komprehensif.
+[791] Menunjukkan bukti submit atau bukti penerimaan (accepted letter) pada jurnal nasional ber-ISSN untuk mahasiswa program magister.
+[793] Susunan, Tugas, dan Wewenang Majelis Penguji
+[795] Susunan Majelis Penguji
+[796] Majelis penguji Skripsi, Tugas Akhir, dan Tesis terdiri atas 4 orang, yaitu: ketua, sekretaris, dan 2 (dua) orang penguji.
+[801] Tugas dan Wewenang Majelis Penguji
+[802] Ketua Majelis Penguji
+[803] Ketua Majelis Penguji bertugas untuk memimpin dan mengarahkan pelaksanaan ujian akhir Skripsi, Tugas Akhir, dan Tesis dengan kewajiban sebagai berikut:
+[804] Memberi arahan dan tata tertib proses pelaksanaan ujian akhir Skripsi, Tugas Akhir, dan Tesis.
+[805] Memberikan arahan dan petunjuk yang dapat menambah dan memperbaiki kelancaran, kedisiplinan dan ketepatan waktu ujian akhir Skripsi, Tugas Akhir, dan Tesis.
+[806] Mengklarifikasi keaslian naskah Skripsi, Tugas Akhir atau Tesis dan/atau karya mahasiswa yang diuji dibuktikan dengan penandatanganan Surat Pernyataan Keaslian Karya di atas materai.
+[807] Membuat Berita Acara pelaksanaan ujian Skripsi, Tugas Akhir, dan Tesis.
+[808] Sekretaris Majelis Penguji
+[809] Sekretaris Majelis Penguji bertugas membantu Ketua Majelis Penguji untuk memperlancar proses pelaksanaan administratif ujian akhir dalam hal mengadministrasikan semua kegiatan selama proses pelaksanaan ujian akhir.
+[810] Penguji
+[811] Penguji bertugas melakukan validasi dan konfirmasi substansi naskah Skripsi, Tugas Akhir, atau Tesis mahasiswa yang diuji dengan kewajiban sebagai berikut:
+[812] Mengajukan pertanyaan yang terfokus pada substansi naskah Skripsi, Tugas Akhir, atau Tesis dan karya mahasiswa.
+[813] Memberikan koreksi/tanggapan/perbaikan secara tertulis atas naskah yang diuji.
+[814] Memberi penilaian atas presentasi, substansi, dan kualitas penelitian mahasiswa.
+[815] Memberikan	bimbingan	sesuai	dengan koreksi/tanggapan/perbaikan tertulis yang diberikan selama ujian.
+[817] Persiapan dan Pelaksanaan Ujian Akhir
+[819] Persiapan Ujian
+[820] Ketua Program Studi mengajukan nama-nama penguji dan waktu pelaksanaan ujian.
+[821] Ketua Program Studi mengusulkan Penetapan Majelis Penguji Skripsi, Tugas Akhir, dan Tesis dan waktu pelaksanaan ujian Skripsi, Tugas Akhir, dan Tesis kepada Dekan atau Direktur PPs. Dekan atau
+[824] Direktur PPs menerbitkan Surat Keputusan tentang Pelaksanaan Ujian Akhir Skripsi, Tugas Akhir, dan Tesis.
+[825] Mahasiswa mempersiapkan materi presentasi untuk ujian Skripsi, Tugas Akhir, dan Tesis, dokumen-dokumen pendukung, dan sumber-sumber referensi yang digunakan dalam naskah Skripsi, Tugas Akhir, dan Tesis.
+[827] Pelaksanaan Ujian Skripsi, Tugas Akhir, dan Tesis
+[828] Alokasi waktu ujian Skripsi dan Tugas Akhir maksimum 60 menit dan ujian Tesis maksimum 90 menit.
+[829] Masing-masing penguji membuat catatan perbaikan yang diperlukan atas naskah Skripsi, Tugas Akhir, dan Tesis melalui e-Skripsi/Tesis.
+[830] Majelis penguji melaksanakan sidang untuk menetapkan hasil ujian. Selama majelis penguji bersidang, mahasiswa yang diuji dipersilahkan keluar dari ruang ujian.
+[831] Setelah majelis penguji selesai bersidang, mahasiswa dipanggil kembali masuk ke ruang ujian dan Ketua Penguji menyampaikan keputusan hasil ujian.
+[832] Ketua Majelis penguji menutup pelaksanaan ujian Skripsi, Tugas Akhir, dan Tesis.
+[833] Keputusan hasil ujian adalah “lulus tanpa revisi”, “lulus dengan revisi” atau “tidak lulus”. Lama waktu revisi bagi mahasiswa yang dinyatakan “lulus dengan revisi” ditentukan oleh majelis penguji paling lama 2 (dua) minggu sejak dilaksanakannya ujian.
+[835] Penilaian Skripsi, Tugas Akhir, dan Tesis
+[837] Kriteria Penilaian dan Kelulusan Ujian Skripsi, Tugas Akhir, dan Tesis
+[838] Program Sarjana
+[839] Mahasiswa dinyatakan LULUS ujian Skripsi dan Tugas Akhir jika mendapatkan nilai rerata akhir dari seluruh majelis penguji Skripsi dan Tugas Akhir minimal B (71-75). Hasil ujian dapat dikategorikan sebagai berikut:
+[840] Lulus tanpa perbaikan Skripsi dan Tugas Akhir
+[841] Lulus dengan perbaikan Skripsi dan Tugas Akhir
+[842] Tidak lulus, mengulang ujian dengan perbaikan Skripsi dan Tugas Akhir
+[843] Program Magister
+[844] Kelulusan ujian tesis ditentukan berdasarkan nilai rerata dari majelis penguji. Mahasiswa dinyatakan lulus ujian tesis jika rerata nilai minimal B (71-75). Kategori kelulusan meliputi lulus tanpa revisi, lulus dengan revisi, atau tidak lulus. Apabila dinyatakan tidak lulus, mahasiswa harus menempuh ujian ulang setelah tesis diperbaiki sesuai dengan saran dan masukan penguji.
+[849] Rubrik Penilaian
+[850] Penilaian Skripsi dan Tesis terdiri atas penilaian dokumen dan penilaian ujian lisan dengan rincian sebagai berikut:
+[852] Format Penilaian Skripsi dan Tesis
+[854] Rerata nilai dari setiap penguji dihitung dengan rumus sebagai berikut.
+[856] N   	(Bx S) ;
+[858] 20
+[860] keterangan: N = nilai, B = bobot, dan S = skor.
+[863] Format Penilaian Tugas Akhir
+[864] Penilaian Tugas Akhir terdiri atas penilaian dokumen dan penilaian ujian lisan dengan rincian sebagai berikut:
+[866] Rerata nilai dari setiap penguji dihitung dengan rumus sebagai berikut.
+[868] N   	(Bx S) ;
+[870] 36
+[871] keterangan: N = nilai, B = bobot, dan S = skor.
+[874] Konversi	Nilai	Akhir	ke	Huruf	Mutu	Program	Sarjana menggunakan tabel berikut:
+[876] Konversi Nilai Akhir ke Huruf Mutu Program Pascasarjana menggunakan tabel berikut:
+[878] Penyelesaian Administrasi
+[880] Mahasiswa mengunggah naskah Skripsi, Tugas Akhir, dan Tesis sesuai dengan menu yang tersedia di SiPerpus (https://siperpus.unisnu.ac.id) dalam bentuk pdf maksimal 250 MB.
+[881] Naskah yang sudah diunggah akan divalidasi oleh pihak perpustakaan.
+[882] Mahasiswa bisa mengunduh bukti validasi dari SiPerpus.
+[883] Mahasiswa menyerahkan hardcopy naskah Skripsi, Tugas Akhir, dan Tesis dengan menyertakan bukti validasi yang diunduh dari SiPerpus.
+[884] Mahasiswa akan mendapatkan bukti bebas perpustakaan.
+[885] Apabila naskah Skripsi, Tugas Akhir, dan Tesis yang diunggah tidak sesuai dengan format dan sistematika yang ditentukan, maka akan dikembalikan.
+[888] BAB VI PUBLIKASI
+[890] Hasil Tesis wajib dipublikasikan dalam bentuk artikel di jurnal nasional. Sistematika penulisan artikel jurnal mengikuti gaya selingkung masing-masing jurnal yang dituju. Sedangkan bagi mahasiswa program sarjana, hasil Skripsi atau Tugas Akhir wajib dipublikasikan minimal dalam bentuk artikel ke e-jurnal UNISNU JEPARA (https://ejournal.unisnu.ac.id) dengan ketentuan sebagai berikut:
+[892] Petunjuk Singkat Penulisan Artikel
+[894] Artikel e-jurnal diartikan sebagai artikel ilmiah yang dimuat dalam media internet, yang diunggah melalui situs web tertentu. Penulis artikel adalah mahasiswa terkait dengan tugas akhirnya.
+[895] Panjang artikel e-jurnal kurang lebih 15 halaman diketik satu spasi, pada kertas kwarto A4 dengan format dua kolom, margin kiri-atas 3 dan margin kanan-bawah 2, font Times New Roman (TNR) 11.
+[896] Judul dalam bahasa Indonesia, ditulis dengan huruf TNR-11 bold maksimal 14 kata, rata tengah. Untuk judul versi bahasa Inggris ditulis dengan huruf TNR-11 bold rata tengah.
+[897] Nama penulis diikuti lembaga afiliasi atau instansi, ditulis dengan huruf kecil (lowercase) TNR-11 disertai alamat korespondensi (khususnya) email.
+[898] Abstrak dibuat dari keseluruhan artikel, ditulis dalam satu paragraf dalam dua bahasa (bahasa Indonesia dan bahasa Inggris). Panjang Abstrak kurang lebih 150 kata atau maksimal 1 halaman diketik 1 spasi TNR-11. ditulis naratif memuat tujuan, metode serta hasil penelitian.
+[899] Kata kunci: satu atau lebih kata atau frasa yang penting, spesifik, atau representatif bagi artikel.
+[900] Artikel ditulis dalam bahasa Indonesia baku atau bahasa lainnya sesuai karakteristik prodi, memuat: (1) Judul, (2) Abstrak, (3) Pendahuluan, (4) Metode, (5) Hasil Penelitian dan Pembahasan, (6) Simpulan dan Saran,
+[901] (7) Daftar Pustaka, dan (8) Biodata Penulis
+[902] Daftar Pustaka ditulis dengan merujuk APA Edisi IV. Ditulis dalam spasi tunggal atau at least 12pt, antar daftar pustaka diberi jarak satu spasi. Sebagian contoh cara penulisan referensi/acuan di dalam DAFTAR PUSTAKA, diberikan berikut:
+[903] Buku teks
+[904] Billett, S. (2011). Vocational education: Purposes, traditions and prospects. Griffith: Springer.
+[907] Buku teks yang dirangkum oleh editor
+[908] Zamroni. (2011). Strategi dan model implementasi pendidikan karakter di sekolah. Dalam Darmiyati Zuhdi (Ed.). Pendidikan Karakter dalam perspektif teori dan praktek. Yogyakarta: UNISNU JEPARA Press.
+[910] Buku terjemahan
+[911] Creswell, J.W. (2013). Research Design. Pendekatan kuantitatif, kualitatif, dan mixed. (Terjemahan Achmad Fawaid). Yogyakarta: Pustaka Pelajar.
+[913] Skripsi/tesis/desertasi
+[914] Meitasari, F. (2015). Pengaruh Model collaborative learning terhadap motivasi dan prestasi belajar IPA siswa kelas V SD se-gugus Makukuhan Kabupaten Magelang. Teşis tidak dipublikasikan. Universitas Negeri Yogyakarta.
+[916] Jurnal
+[917] Yagci, M. (2016). Effects of pre-service information technologies (IT) teachers' thinking styles on their use of informa tion and communication technology (ICT). Educational Research and Reviews, 11 (2), 48-58.
+[919] Kumpulan abstrak penelitian atau proseding
+[920] Pardjono. (2015). Peran pendidikan kejuruan dan vokasi menghadapi masyarakat ekonomi Asean. Prosiding, Seminar Nasional Mechanical Fair yang diselenggarakan oleh Fakultas Teknik UNY, tanggal 12 September 2015. Yogyakarta: Universitas Negeri Yogyakarta.
+[922] Dari internet
+[923] Rauner, F (2008). The professionalization of TVET teachers. Diunduh pada tanggal 23 Januari 2011 dari www.itb.uni-bremen.du
+[925] Tata Tulis dan Sistematika
+[927] Tata Tulis
+[928] Sebagai artikel ilmiah, artikel e-jurnal ditulis dalam bahasa ilmiah, yang antara lain bercirikan objektif, sistematis, dan logis. Tata tulis artikel mengikuti gaya selingkung masing-masing jurnal yang dituju.
+[929] Sistematika
+[930] Penulisan artikel e-jurnal dapat berupa hasil penelitian maupun kajian. Sistematika penulisan artikel e-jurnal adalah sebagai berikut:
+[933] Hasil Penelitian Judul Abstrak
+[934] Pendahuluan (Background)
+[935] Metode Penelitian (Research Method)
+[936] Hasil dan Pembahasan (Finding and Discussion) Simpulan (Conclusion)
+[937] Daftar Pustaka.
+[939] Hasil Kajian Judul Abstrak
+[940] Pendahuluan (Background) Pembahasan (Discussion)*
+[941] Simpulan (Conclusion/Recommendation) Daftar Pustaka.
+[943] * Untuk bidang seni dan teknologi disertai foto karya
+[945] Abstrak dibuat dari keseluruhan artikel, ditulis dalam satu paragraf dalam dua bahasa (bahasa Indonesia dan Bahasa Inggris). Panjang Abstrak antara 130-150 kata.
+[946] Panjang artikel kurang lebih 15 halaman A4, diketik 1 spasi, format 2 kolom, font TNR 11, ditulis dengan Bahasa Indonesia yang baku dan benar. Selengkapnya mengenai format, (termasuk jumlah kolom, margins, dan font) diatur seperti template yang ada, yang dapat diunduh dari https://journal.unisnu.ac.id.
+[948] Mekanisme Penyusunan dan Pengunggahan
+[950] Mahasiswa program magister berkewajiban menyusun dan mengunggah artikel hasil penelitian ke Jurnal ber-ISSN dengan merujuk templat jurnal yang dituju.
+[953] BAB VII
+[954] ETIKA, PELANGGARAN, DAN SANKSI
+[956] Etika Penyusunan
+[958] Skripsi, Tugas Akhir, dan Tesis yang disusun mahasiswa diharapkan memiliki kualitas tinggi baik dari sudut keilmuan, metodologis, administratif serta standar etika akademik, baik proses maupun produk yang dihasilkan.
+[959] Pertimbangan-pertimbangan etis yang perlu dipenuhi oleh mahasiswa, antara lain, sebagai berikut:
+[960] Kejujuran akademik, yang tercerminkan dalam:
+[961] Karya yang disusun benar-benar merupakan karyanya sendiri, bukan hasil jiplakan (plagiasi) seluruhnya ataupun sebagian.
+[962] Dicantumkannya secara jelas semua referensi yang digunakan sebagai bahan kajian sesuai dengan ketentuan yang berlaku mengenai Hak atas Kekayaan Intelektual (HaKI).
+[963] Disusunnya Skripsi, Tugas Akhir, atau Tesis sesuai ketentuan yang berlaku.
+[964] Keterbukaan, yaitu kesediaan untuk menerima kritik atau masukan demi peningkatan kualitas hasil penelitian dan kajian.
+[965] Tidak memaksa dan merugikan subjek penelitian.
+[966] Menjaga kerahasiaan dan keamanan subjek penelitian, yaitu dengan tidak memublikasikan nama dan identitas subjek yang sebenarnya, kecuali seizin yang bersangkutan.
+[968] Pelanggaran dan Sanksi
+[970] Pelanggaran Administrasi, berupa:
+[971] Ketidaktepatan pelaksanaan Skripsi, Tugas Akhir, atau Tesis dengan jadwal yang telah ditentukan sebelumnya.
+[972] Melanggar atau tidak memenuhi persyaratan pada salah satu atau lebih dari butir-butir yang tercantum pada ketentuan umum dan ketentuan khusus dan seluruh butir yang terkait tentang pelaksanaan Skripsi, Tugas Akhir, atau Tesis yang tercantum dalam Pedoman ini.
+[973] Sanksi atas pelanggaran administrasi berupa:
+[974] Peringatan tertulis.
+[975] Penundaan ujian akhir.
+[976] Penyusunan ulang akhir.
+[977] Pelanggaran Akademik dapat berupa:
+[978] Plagiat.
+[979] Pelanggaran atas HaKI.
+[980] Pelanggaran atas etika penelitian.
+[985] Sanksi atas pelanggaran akademik berupa:
+[986] Pembatalan Skripsi, Tugas Akhir, atau Tesis.
+[987] Skors akademik.
+[988] Pemberhentian sebagai mahasiswa UNISNU JEPARA.
+[990] Sanksi administratif, akademik, dan etika dapat dikeluarkan dan dieksekusi oleh Ketua Program Studi dengan persetujuan Wakil Dekan Bidang Akademik dan diketahui oleh Dekan atau Direktur Pascasarjana. Penanganan pelanggaran dalam ranah pidana atau perdata dilakukan oleh Ketua Program Studi dan pimpinan Fakultas bekerja sama dengan instansi/institusi yang terkait dan berwenang sesuai dengan peraturan perundangan yang berlaku.
+[993] BAB VIII PENUTUP
+[996] Pedoman ini disusun untuk membantu mahasiswa dalam menyusun Skripsi, Tugas Akhir, dan Tesis. Pedoman ini juga diharapkan dapat memudahkan dosen pembimbing dalam mengarahkan mahasiswa yang sedang menyusun Skripsi, Tugas Akhir, atau Tesis. Pedoman ini juga dapat dimanfaatkan oleh Majelis Penguji dalam menentukan hasil ujian. Bagi Program Studi/Fakultas/PPs, pedoman ini dapat digunakan dalam menentukan tingkat kelulusan mahasiswa.
+[999] REKTOR,
+[1001] ttd.
+[1004] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[1007] LAMPIRAN II
+[1008] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[1009] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[1011] CONTOH HALAMAN SAMPUL DALAM
+[1013] REKTOR,
+[1015] ttd.
+[1017] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[1020] LAMPIRAN III
+[1021] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[1022] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[1024] CONTOH HALAMAN ABSTRAK
+[1026] ABSTRAK
+[1027] Ana Ivatul Khoni’ah, 161120001928, Analisis Laporan Keuangan Pada Lembaga Yayasan Islam Hasan Kafrawi, 2021.
+[1028] Penelitian ini bertujuan untuk mengetahui: (1). Pemikiran DR. KH. MA Sahal Mahfudh tentang fiqh sosial dalam buku Nuansa Fiqih Sosial (2). Pemikiran DR. KH. MA Sahal Mahfudh tentang pengaruh fiqh sosial dalam buku Nuansa Fiqih Sosial terhadap pendidikan Islam. Penelitian ini merupakan penelitian jenis library research. Data penelitian yang terkumpul kemudian dianalisis dengan menggunakan pendekatan deskriptif analisis yakni menggambarkan dan menganalisis pemikiran DR. KH. MA Sahal Mahfudh tentang fiqh sosial dalam buku Nuansa Fiqih Sosial dan pengaruhnya terhadap pendidikan Islam. Dalam menganalisis data, peneliti menggunakan analisis data kualitatif, yaitu data yang tidak bisa dinilai dengan angka secara langsung. Dalam hal ini yang akan diuraikan adalah pemikiran DR. KH. MA Sahal Mahfudh tentang fiqh sosial dalam buku Nuansa Fiqih Sosial dan pengaruhnya terhadap pendidikan Islam. Hasil penelitian menunjukkan bahwa pemikiran DR. KH. MA Sahal Mahfudh tentang fiqh sosial memang mempunyai keterkaitan yang erat dengan pendidikan Islam. Sehingga pemikiran tersebut mempunyai andil besar dalam pendidikan Islam dewasa ini dalam rangka membentuk pribadi-pribadi muslim yang akrom dan shalih. Dalam buku Nuansa Fiqih Sosial banyak dibahas tentang pembaruan-pembaruan pemikiran tentang fiqh dan realitas sosial serta solusi nyata yang dapat direalisasikan dalam membentuk insan yang akrom dan shalih. Fiqih sosial, perbincangan antara fiqh dengan realitas yang ada dan yang sedang berkembang. Menempatkan fiqh tidak hanya sebagai mengenal ritual agama, tetapi lebih pada prinsip mencari kemaslahatan bersama. Dengan kaidah mempertahankan hal lama yang baik dan mengambil hal baru yang lebih baik, kita cari pengaruh pemikiran di atas terhadap pendidikan Islam. Dalam ini penulis menggunakan beberapa metode. Pertama adalah diskripsi, dimaksudkan untuk menjelaskan dan menggambarkan pemikiran DR. KH MA Sahal Mahfudh tentang Fiqih Sosial dalam buku beliau yang berjudul Nuansa Fiqh Sosial. Kedua adalah induksi deduksi, agar penjelasan lebih memahamkan maka dimulai dari hal umum ke khusus, atau dari khusus ke umum. Ketiga adalah content analysis, dimaksudkan agar diperoleh analisis yang lebih mendalam terkait pemikiran beliau tentang fiqh sosial yang tertuang dalam buku beliau yaitu Nuansa Fiqh Sosial dan pengaruhnya terhadap pendidikan Islam. Pendidikan Islam selama ini ternyata belum bisa menghasilkan out put yang bagus yaitu insan yang akrom dan shalih karena di beberapa hal masih memerlukan pembaharuan-pembaharuan yang sesuai perkembangan zaman tetapi mengandung nilai-nilai Islam. Salah satu solusi alternatif dari beliau adalah pendidikan pesantren yang diharapkan dapat mewujudkan insan yang akrom dan shalih.
+[1029] Kata kunci: laporan keuangan, lembaga yayasan Islam
+[1033] ABSTRACT
+[1036] Ana Ivatul Khoni'ah, 161120001928, Financial Statement Analysis at the Hasan Kafrawi Islamic Foundation, 2021.
+[1037] This study aims to determine: (1) DR. KH. MA Sahal Mahfudh's thoughts on social fiqh in the book Nuansa Fiqih Sosial (2) DR. KH. MA Sahal Mahfudh's thoughts on the influence of social fiqh in the book Nuansa Fiqih Sosial on Islamic education. This research is a library research type. The research data collected was then analyzed using a descriptive analysis approach, which describes and analyzes DR. KH. MA Sahal Mahfudh's thoughts on social fiqh in the book Nuansa Fiqih Sosial and its influence on Islamic education. In analyzing the data, the researcher used qualitative data analysis, which is data that cannot be directly evaluated with numbers. In this case, the focus will be on DR. KH. MA Sahal Mahfudh's thoughts on social fiqh in the book Nuansa Fiqih Sosial and its influence on Islamic education. The results show that DR. KH. MA Sahal Mahfudh's thoughts on social fiqh are closely related to Islamic education. Therefore, these thoughts have a significant contribution to shaping Muslim individuals who are noble and righteous. The book Nuansa Fiqih Sosial discusses many renewals of fiqh and social reality thoughts, as well as real solutions that can be realized in shaping noble and righteous individuals. Social fiqh is a discussion between fiqh and the existing and developing reality. It places fiqh not only on knowing religious rituals but more on the principle of seeking common good. With the principle of maintaining the good old and taking the better new, we seek the influence of the above thoughts on Islamic education. In this study, the author uses several methods. First is description, which aims to explain and describe DR. KH MA Sahal Mahfudh's thoughts on social fiqh in his book Nuansa Fiqh Sosial. Second is induction deduction, which aims to make the explanation more understandable by starting from general to specific or from specific to general. Third is content analysis, which aims to obtain a deeper analysis related to his thoughts on social fiqh that are contained in his book, Nuansa Fiqh Sosial, and its influence on Islamic education. Islamic education so far has not been able to produce good output, namely noble and righteous individuals, because in some ways, it still needs appropriate updates that contain Islamic values in line with the development of the times. One alternative solution from him is pesantren education, which is expected to realize noble and righteous individuals.
+[1040] Keywords: financial statements, Islamic foundation.
+[1043] الملخص
+[1047] محمد حسن امين182610000617, .تطبيق التعلم مهارات الحياة في تنمية جهد الاعمال لطلاب العصر 0.4 في
+[1048] المدرسة الثانوية واليسونغوكاين باطي للعام الدراسي .2020\2019 يستخدم المنهج في هذا البحث هو البحث الميداني
+[1049] بالوصفي النوعي لاستكشاف تطبيق التعلم مهارات الحياة في تنمية نفس ريادة الاعمال لطلاب العصر 4.0 في المدرسة
+[1050] الثانوية واليسونغوكاين باطي للعام الدراسي2020\2019 . ويسةخدم مصادر البيانات هي البيانات الاصولية التي
+[1051] تحصل من رئيس المدرسة, ونائب الرئيس للمناهج,  والمعلمين, وطلاب المدرسة الثانوية واليسونغوكاين باطي.
+[1052] وامامصادر البيانات الفروعية التي تحصل من الكتب ,والمجلا ت العلمية, والوثائق اوالكتابات العلمية التي تدعم وترتبط بموضوع هذه الرسالة. تتكون تقنيات جمع البيانات(1 المقابلات, (2 المراقبة, (3 التوثيق. وتتكون تقنيات تحليل البيانات من: (1 تقليل البيانات. (2 عرض البيانات. و (3 التحقيق. وتتكون اختبارات مصداقية البيانات من : توسيع نطاق الملاحظات, وزيادة المثابرة, والتثليث. يحصل هذا البحث الئ النتائج يعني: (1 تطبيق التعلم مهارات الحياة في تنمية نفي ريادة الاعمال لطلاب العصر 4.0 في المدرسة الثانوية واليسونغوكاين باطي يتركزعلى يكون تنفيذ التعلم مهارات الشخصية, ومهارات الاجتماعية, ومهارات الاكاديمية والمهنية جيدا. (2 العوامل الداعمة في تنمية نفس ريادة الاعمال لطلاب العصر 4.0 في المدرسة الثانوية واليسونغو كاين باطي تشمل على: )ا( الدعم والاستجابات الايجابية من رئيس المدرسة وجميع المعلمين , )ب( موقف المعلم بااصبير والمثابرة, )ج( الغيرة العالية للداب, و)د( توافرغرفة خاصة للتجميل وادواته. واما العوامل المثبطة هي: )ا( عوامل ماليةاوتمويلية, )ب( محدودية المرافق والبنية التحتية لا لتعلم مهارات الحياة, )ج( اختلاف خلفيات الطلاب, و )د( الاوقات المحدودة. (3 نتائج تنمية نفس ريادة الاعمال للطلاب في العصر 4.0 نجلال تطبيق التعلم مهارات الحياة في الدرسة الثانوية واليسونغوكاين باطي تشمل على: ا( نموثقة الطلاب بانفسهم, ب( نموالامانة, ج( ترقية نفس الطاعة للامتثال باوامر الدينية, د( نموالنفس المستقلة, ه( نمو نفس المسوولية في مواجهة المخاطر, و( نمونفس الفضول والتفكير النقدي, ز( ونمونفس التعاونوالتواصل.
+[1053] الكلمات الدالة: التعلم مهارات الحياة, ريادةالاعمال, العصر4.0 .
+[1056] REKTOR,
+[1058] ttd.
+[1061] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[1064] LAMPIRAN IV
+[1065] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[1066] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[1068] CONTOH HALAMAN PERNYATAAN KEASLIAN
+[1070] REKTOR,
+[1072] ttd.
+[1075] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[1078] LAMPIRAN V
+[1079] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[1080] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[1082] CONTOH HALAMAN PERSETUJUAN PEMBIMBING
+[1085] REKTOR,
+[1087] ttd.
+[1090] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[1093] LAMPIRAN VI
+[1094] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[1095] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[1097] CONTOH HALAMAN PENGESAHAN
+[1099] REKTOR,
+[1101] ttd.
+[1103] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[1106] LAMPIRAN VII
+[1107] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[1108] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[1110] CONTOH HALAMAN PERSEMBAHAN
+[1113] REKTOR,
+[1115] ttd.
+[1117] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[1120] LAMPIRAN VIII
+[1121] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[1122] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[1124] CONTOH HALAMAN MOTO
+[1127] REKTOR,
+[1129] ttd.
+[1131] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[1134] LAMPIRAN IX
+[1135] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[1136] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS CONTOH HALAMAN KATA PENGANTAR
+[1137] KATA PENGANTAR
+[1138] Dengan memanjatkan puji dan syukur kepada Allah SWT yang telah berkenan melimpahkan rahmat, taufiq, dan hidayah-Nya, sehingga penulis dapat menyelesaikan penelitian dengan judul: “…	” dengan baik.
+[1139] Pada kesempatan ini penulis dengan rasa bangga dan bahagia menghaturkan ucapan terima kasih yang sebesar-besarnya kapada:
+[1140] Rektor Universitas Islam Nahdlatul Ulama (UNISNU) Jepara (sebut nama pejabatnya, lengkap dengan gelar akademik) .........
+[1141] Dekan Fakultas …………….. Universitas Islam Nahdlatul Ulama (UNISNU) Jepara (sebut nama pejabatnya, lengkap dengan gelar akademik) .................
+[1142] Ketua program studi  ……………..  fakultas	Universitas Islam Nahdlatul
+[1143] Ulama (UNISNU) Jepara (sebut nama pejabatnya, lengkap dengan gelar akademik)
+[1144] .......................
+[1145] Pembimbing skripsi/tugas akhir ……….. .............
+[1146] Para Dosen Program studi ………. ..........
+[1147] dst. (silahkan disesuaikan….)
+[1149] Peneliti menyadari, bahwa apa yang dituangkan dan disajikan ini masih banyak kekurangan dan kekhilafan. Tetapi peneliti berharap mudah-mudahan skripsi/tugas akhir ini bisa menjadikan sesuatu yang bermanfaat terutama bagi peneliti sendiri dan umumnya kepada para pembaca yang sudi melihat dan membacanya.
+[1152] Jepara, …………. Penulis/Peneliti,
+[1154] (Nama Mahasiswa)
+[1157] REKTOR,
+[1159] ttd.
+[1161] Dr. H. SA’DULLAH ASSA’IDI, M.Ag. NIY 2 560117 89 115
+[1164] LAMPIRAN X
+[1165] PERATURAN REKTOR UNIVERSITAS ISLAM NAHDLATUL ULAMA JEPARA NOMOR 57/PR/UNISNU/V/2023
+[1166] TENTANG PEDOMAN PENULISAN SKRIPSI, TUGAS AKHIR, DAN TESIS
+[1168] CONTOH HALAMAN DAFTAR ISI
+[1170] DAFTAR ISI
+[1171] Halaman Judul	………………………………………………………………………………………………..	 i Halaman Abstrak		………………………………..……………………………………………………………	ii
+[1172] Surat Pernyataan	…………………………………….……………………………………………………….	iii
+[1173] Lembar Persetujuan Pembimbing ………………………..………………………………………………….	iv
+[1174] Lembar Pengesahan …………………….……………………………………………………………………..	v
+[1175] Halaman Persembahan ……………………..…………………………………………………………………	vi
+[1176] Halaman Moto ……………………..…………………………………………………………………………...	vii
+[1177] Kata Pengantar ……………………..…………………………………………………………………………..	viii
+[1178] Daftar Isi	…………………………………………………………………………………………………………	ix
+[1179] Daftar Tabel	…………………………………………………………………………………………………….	x
+[1180] Daftar Gambar	…………………..…………………………………………………………………………….	xi
+[1181] Daftar Lampiran	……………………………………………………………………………………………….	xii
+[1182] Bab I PENDAHULUAN .................................................................................................... ..
+[1183] Latar   Belakang   Masalah   ...............................................................................
+[1184] Rumusan    Masalah     .......................................................................................
+[1185] Tujuan   Penelitian..........................................................................................
+[1186] Manfaat       Penelitian     ........................................................................................
+[1187] Bab.   II    LANDASAN   TEORI  .................................................................................................
+[1188] Kajian     Teori      ..................................................................................................
+[1189] Hasil  Penelitian  yang  Relevan   ......................................................................
+[1190] Kerangka    Berpikir      ........................................................................................
+[1191] Pertanyaan  Penelitian  dan/atau  Hipotesis....................................................
+[1192] Bab.   III   METODE   PENELITIAN..........................................................................................
+[1193] Jenis  dan  Pendekatan  Penelitian   .................................................................
+[1194] Waktu   dan   Tempat   Penelitian .......................................................................
+[1195] Jenis  dan   Sumber   Data  ................................................................................
+[1196] Teknik   Pengumpulan   Data   ...........................................................................
+[1197] Teknik    Analisis    Data  .....................................................................................
+[1198] Teknik    Keabsahan    Data  ................................................................................
+[1200] Bab.    IV   HASIL  DAN  ANALISIS ..........................................................................................
+[1201] Hasil        Penelitian    .............................................................................................
+[1202] 4.2.    Analisis  Hasil  Penelitian   ...............................................................................
+[1204] Bab.     V   PENUTUP..............................................................................................................
+[1205] Simpulan    ......................................................................................................
+[1206] Saran	.........................................................................................................
