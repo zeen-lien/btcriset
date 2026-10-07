@@ -13,6 +13,6 @@
 - **Ketua Program Studi** : [ISI: nama + gelar]
 - **Rektor** : Dr. H. Sa'dullah Assa'idi, M.Ag. (sesuai panduan)
 
-## Judul (final, 17 kata)
-Analisis Kestabilan Temporal Subset Fitur XGBoost Berbasis Jaccard dan
-Hubungannya dengan Error Prediksi Out-of-Sample pada Return Bitcoin
+## Judul (final, 14 kata)
+Hubungan Kestabilan Temporal Subset Fitur XGBoost Berbasis Jaccard
+dengan Error Prediksi Out-of-Sample Return Bitcoin

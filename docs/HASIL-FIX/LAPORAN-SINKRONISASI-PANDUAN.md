@@ -228,7 +228,23 @@ nomor halaman i–xiii urut, nol halaman kosong). Pratinjau: `PREVIEW-BAGIAN-AWA
 
 ---
 
-## I. YANG TIDAK DISENTUH (frozen methodology)
+## J. PERGANTIAN JUDUL (Analisis… → Hubungan…)
+
+Judul lama (*"Analisis Kestabilan Temporal Subset Fitur XGBoost Berbasis Jaccard dan
+Hubungannya dengan Error Prediksi Out-of-Sample pada Return Bitcoin"*, 17 kata)
+diawali kata generik "Analisis". Diganti atas permintaan user menjadi
+(**14 kata**, lolos batas maksimal 14 kata untuk judul artikel jurnal kampus):
+*"Hubungan Kestabilan Temporal Subset Fitur XGBoost Berbasis Jaccard dengan Error
+Prediksi Out-of-Sample Return Bitcoin"*.
+
+Di-propagate ke: `BAGIAN AWAL.docx` (6 titik: sampul, abstrak ID, pernyataan,
+persetujuan, pengesahan, kata pengantar) + `BAB I - III_FIXED.docx` (1 titik:
+latar belakang BAB I). Sisa judul lama: **0**. Backup:
+`_backup_panduan/*_PRETITLE2.docx`. Isi, angka, dan hasil eksperimen **nol berubah**.
+
+---
+
+## K. YANG TIDAK DISENTUH (frozen methodology)
 
 Raw data, data terproses, snapshot, output eksperimen, CSV/JSON hasil, konfigurasi model,
 logika feature engineering/selection/stability/forecasting/evaluasi, koreksi C1, dan
